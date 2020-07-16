@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<materi>
+    <judul urut="0">RESONANSI BUNYI</judul>
+    <teks urut="1">Resonansi adalah peristiwa ikut bergetarnya suatu benda karena getaran benda lain. Syarat resonansi adalah frekuensi penggetar sama dengan frekuensi yang digetarkan.</teks>
+    <teks>Contoh peristiwa resonansi dapat dilihat pada ayunan bandul (Gambar 35 dan Video 8). Ketika bandul A diayunkan, maka lama kelamaan bandul C   dan   E    ikut   berayun,</teks>
+    <gambar>resonansi</gambar>
+    <teks>sedangkan bandul yang lainnya diam. Jika bandul B yang diayunkan, hanya bandul D yang ikut berayun seirama dengan B. Jadi, hanya bandul yang panjang benangnya sama atau frekuensinya sama yang ikut berayun.</teks>
+    <ket>Perhatikan Video berikut!</ket>
+    <video>ev1</video>
+    <ket>Video 8. Resonansi pada ayunan bandul
+        Sumber: https://www.youtube.com/watch?v=qa8_AoqzdMU
+    </ket>
+    <coba>
+        <judul>Aspek Kognitif: Menjelaskan syarat terjadinya resonansi bunyi
+            Aspek K.Komunikasi: Menuliskan informasi dengan jelas dan dapat dimengerti
+        </judul>
+        <soal>Tahukah anda, apa sajakah syarat terjadinya resonansi? Gunakan berbagai jenis media untuk mencari informasi (tuliskan sumber informasi yang digunakan)!</soal>
+    </coba>
+    <teks>resonansi (Gambar 36). Tabung resonansi dimasukkan ke dalam air, diatasnya digetarkan sebuah garpu tala, maka kolom udara di dalam tabung akan ikut bergetar.
+        Hubungan panjang kolom udara L terhadap panjang gelombang   ditunjukkan dalam persamaan 9.
+    </teks>
+    <gambar>eg1</gambar>
+    <gambar>eg2</gambar>
+    <ket>Gambar 36. Tabung Resonansi
+        Sumber: edoc.pub
+    </ket>
+    <teks>Dari uraian diatas dapat ditentukan bahwa  dapat dicari dengan  = 2 (L2 - L1) atau seperti ditunjukkan pada Gambar 37.</teks>
+    <gambar>eg3</gambar>
+    <ket>Gambar 37. Resonansi pada Kolom Udara
+        Sumber: https://cerdika.com/resonansi/
+    </ket>
+    <teks>Sehingga:</teks>
+    <gambar>eg4</gambar>
+    <teks>Keterangan :
+        n   = 1, 2, 3,...
+        Ln  = panjang kolom udara pada resonansi ke- n
+        = panjang gelombang bunyi dari garputala
+        Kita dapat menentukan cepat rambat bunyi di udara menggunakan tabung resonansi dengan menggunakan persamaan 10 sebagai berikut.
+    </teks>
+    <gambar>eg5</gambar>
+    <teks>Keterangan:
+        v = cepat rambat bunyi di udara (m/s)
+        f = frekuensi bunyi yang dihasilkan garpu tala (Hz)
+    </teks>
+    <gambar>eg6</gambar>
+    <coba>
+        <judul>Aspek Kognitif: Menentukan frekuensi benda pada fenomena resonansi</judul>
+        <soal>Pada percobaan resonansi, terjadi resonansi yang pertama pada saat panjang kolom udaranya 20 cm dan resonansi yang kedua terjadi pada saat panjang kolom udaranya 60 cm. Jika laju bunyi di udara saat itu 300 m/s, Tentukan frekuensi garputala yang digunakan!</soal>
+    </coba>
+</materi>

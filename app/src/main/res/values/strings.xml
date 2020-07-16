@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile Learning Fisika - Gelombang Bunyi</string>
+    <string name="judul">Gelombang Bunyi</string>
+    <string name="sub_judul">Melatih Kognitif dan Keterampilan Komunikasi Peserta Didik</string>
+    <string name="tentang">Mobile Learning (M-Learning) Fisika ini membahas materi tentang "Gelombang Bunyi".
+        Aplikasi ini berisi materi pembelajaran, latihan soal dan tes. Melalui kegiatan pembelajaran dengan menggunakan bahan ajar mobile learning berbasis multirepresentasi, peserta didik  diharapkan
+        mampu mengoptimalkan kemampuan kognitif dan keterampilan komunikasi dalam menerapkan prinsip Gelombang Bunyi dalam kehidupan sehari-hari.</string>
+    <string name="penyusun">Rani Nurliani\nMagister Pendidikan Fisika\nUniversitas Pendidikan Indonesia
+</string>
+</resources>

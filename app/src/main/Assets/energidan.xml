@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<materi>
+    <judul urut="0">ENERGI DAN INTENSITAS BUNYI</judul>
+    <teks urut="1">Gelombang dapat merambat dari satu tempat ke tempat lain melalui medium yang bermacam-macam. Gelombang dapat merambatkan energi. Dengan demikian, gelombang mempunyai energi. Jika udara atau gas dilalui gelombang bunyi, partikel-partikel udara akan bergetar sehingga setiap partikel akan mempunyai energi sebesar :</teks>
+    <gambar>ig1</gambar>
+    <gambar>ig2</gambar>
+    <subjudul></subjudul>
+    <video>iv1</video>
+    <ket>Video 11. Suara di jalan raya
+        Sumber: https://www.youtube.com/watch?v=iuNZiv1k-2o</ket>
+    <coba>
+        <judul>Aspek Kognitif: Membedakan intensitas sumber bunyi
+            Aspek K.Komunikasi: Menuliskan ide/pendapat yang relevan degan konten.
+        </judul>
+        <soal>Berdasarkan video 11 ‘Suara di jalan raya’. Perhatikan perbedaan suara saat jalan raya ramai dengan mobil dan saat mobil yang melalui jalan raya berkurang. Bagaimana intensitas suara yang terjadi?</soal>
+    </coba>
+    <teks>Gelombang merupakan rambatan energi getaran. Jika ada gelombang tali berarti energinya dirambatkan melalui tali tersebut. Bagaimana dengan bunyi? Bunyi dirambatkan dari sumber ke pendengar melalui udara.</teks>
+    <teks>Berarti energi yang diterima pendengar itu tidak lagi sebesar sumbernya. Sehingga yang dapat diukur adalah energi bunyi tiap detik (daya bunyi) yang menembus bidang setiap satuan luas permukaan secara tegak lurus (Gambar 44) yang dinamakan dengan intensitas bunyi dan dirumuskan dalam persamaan 32.</teks>
+    <gambar>energidan</gambar>
+    <ket>
+        Gambar 44. Daya bunyi yang menembus luas permukaan bidang. Sumber: bse Fisika untuk SMA dan MA Kelas XII
+    </ket>
+    <gambar>ig3</gambar>
+    <teks>dengan :
+        I = intensitas bunyi (watt/m2)
+        P = daya bunyi (watt)
+        A = luasan yang dilalui bunyi (m2)
+        A = 4πR2 (untuk bunyi yang menyebar ke segala arah)
+    </teks>
+    <subjudul>2.	Taraf Intensitas Bunyi</subjudul>
+    <teks>Kalian tentu pernah mendengar bunyi dalam ruangan yang bising. Tingkat kebisingan inilah yang dinamakan dengan taraf intensitas. Taraf intensitas didefinisikan sebagai sepuluh kali logaritma perbandingan intensitas dengan intensitas ambang pendengaran yang ditunjukkan dengan persamaan 33.</teks>
+    <gambar>ig4</gambar>
+    <gambar>ig5</gambar>
+    <teks>Taraf intensitas inilah yang memengaruhi kenyaringan bunyi. Tabel 4 menunjukkan intensitas dan taraf intensitas pada beberapa bunyi.</teks>
+    <ket>Tabel 4. Taraf Intensitas dan Intensitas berbagai macam bunyi </ket>
+    <gambar>ig6</gambar>
+    <ket>Sumber: bse Fisika untuk SMA dan MA Kelas XII</ket>
+    <teks>Bunyi dengan taraf intensitas paling rendah yang dapat didengar oleh manusia adalah 0 dB yang merupakan ambang batas pendengaran. Bunyi dengan taraf intensitas 140 dB dapat merusak pendengaran seseorang yang merupakan ambang rasa sakit karena menimbulkan rasa sakit bagi sebagian besar orang yang mendengar. Gambar 45 menunjukan taraf intensitas berbagai macam bunyi yang ada disekitar manusia. </teks>
+    <gambar>ig7</gambar>
+    <ket>Gambar 45. Intensitas berbagai macam bunyi
+        Sumber: jagad.id
+    </ket>
+    <gambar>ig8</gambar>
+    <coba>
+        <judul>Aspek Kognitif: Menentukan intensitas dari suatu sumber bunyi pada jarak tertentu</judul>
+        <soal>Seekor singa yang mengaum melepas daya sekitar 0,5 mW.
+            a. Jika daya terdistribusi secara seragam ke semua arah, berapa tingkat intensitas bunyi pada jarak 10 m?
+            b. Berapa tingkat intensitas dari dua anjing yang mengaum secara bersamaan jika masing-masing melepas daya 2 mW?
+        </soal>
+    </coba>
+</materi>

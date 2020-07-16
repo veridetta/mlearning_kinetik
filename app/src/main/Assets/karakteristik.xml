@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<materi>
+    <judul urut="0">KARAKTERISTIK GELOMBANG BUNYI</judul>
+    <teks>Bunyi dirambatkan sebagai gelombang mekanik longitudinal pada medium padat, cair, maupun gas. Medium yang dilalui bunyi bergetar dalam bentuk rapatan dan renggangan (Gambar 4 dan Video 3). </teks>
+    <gambar>karakteristik</gambar>
+    <ket>Gambar 4. Bunyi bergetar dalam bentuk rapatan dan renggangan.
+        Sumber: http://digilib.unila.ac.id</ket>
+    <video>k2</video>
+    <ket>Video 3. Bunyi bergetar dalam bentuk rapatan dan renggangan.
+        Sumber: https://www.youtube.com/watch?v=XBP0jmpjzBw&amp;feature=youtu.be
+    </ket>
+    <teks>Gelombang longitudinal adalah gelombang yang arah rambatnya sejajar atau searah dengan arah getarnya. Bunyi merambat sebagai gelombang longitudinal mirip dengan perjalanan gelombang longitudinal pada slinki (Gambar 5).</teks>
+    <gambar>bg2</gambar>
+    <ket>Gambar 5. Rapatan dan Renggangan pada Gelombang Longitudinal. Sumber: Dok. Kemdikbud; fdokumen.com</ket>
+    <teks>Dalam perambatannya gelombang bunyi berbentuk rapatan dan renggangan yang dibentuk oleh partikel-partikel perantara bunyi (Gambar 5). Apabila gelombang bunyi merambat di udara, perantaranya adalah partikel-partikel udara. Gelombang bunyi tidak dapat merambat di dalam ruang hampa udara karena dalam ruang hampa udara tidak ada partikel-partikel udara. Salah satu ilmuwan yang pernah melakukan percobaan tentang perlunya medium perantara bagi bunyi untuk merambat adalah Otto Von Guericeke (Gambar 6). Otto Von Guericeke melakukan percobaan dengan menaruh sebuah bel yang dibunyikan di dalam sebuah tabung yang rapat. Jika udara didalam tabung dipompa keluar, sehingga ruang di dalam tabung menjadi hampa udara, bunyi bel terdengar menjadi sangat lemah.</teks>
+    <gambar>bg3</gambar>
+    <ket>Gambar 6. Otto Von Guericeke
+        Sumber: www.daviddarling.info
+    </ket>
+    <teks>Ilustrasi percobaan yang mirip dengan yang telah dilakukan oleh ilmuwan tersebut dapat dilihat pada Gambar 7, dan Video 4, dimana jam beker pertama ditutup oleh tabung vakum (Gambar 7a). Sedangkan jam beker kedua (Gambar 7b) tidak ditutup tabung vakum.</teks>
+    <gambar>bg4</gambar>
+    <ket>Gambar 7. (a) jam beker di dalam tabung vakum (b) jam beker yang berada di ruang terbuka. Sumber: books.google.co.id</ket>
+    <ket>Simak video berikut!</ket>
+    <video>bv2</video>
+    <ket>Video 4. Percobaan sebuah bel yang dibunyikan di dalam tabung vakum
+        Sumber: https://www.youtube.com/watch?v=h0L6YpWh0KM
+    </ket>
+    <!--<ket>Perhatikan Animasi berikut!</ket>
+    <web>bw1</web>
+    <ket>Animasi 1. Percobaan sebuah mainan drum kecil yang dibunyikan di dalam tabung vakum
+        Sumber: www.animations.physics.unsw.edu.au
+    </ket>-->
+    <coba>
+        <judul>
+              Aspek Kognitif: Membandingkan fenomena perambatan bunyi dalam ruang hampa dan ruang terbuka
+              Aspek K.Komunikasi: Menuliskan ide/pendapat yang tepat dan relevan dengan konten
+        </judul>
+        <soal>
+               Apa yang dapat Anda simpulkan dari aktivitas tersebut? Mengapa ketika udara didalam tabung dihisap, lama kelamaan bunyi jam beker tersebut tidak terdengar?
+        </soal>
+    </coba>
+    <teks>Setelah mempelajari percobaan pada Video 4 dan Animasi 1 Anda mengetahui bahwa gelombang bunyi memerlukan medium untuk merambat. Namun, ketika Anda mendengar bunyi,  apakah Anda dapat membedakan sumber bunyi? Misalnya ketika membedakan bunyi gitar dan keyboard (Gambar 8). Mengapa Anda mempunyai kemampuan itu? Hal ini disebabkan setiap gelombang bunyi memiliki karakteristik yang berbeda seperti frekuensi, amplitudo, dan warna bunyi yang berbeda meskipun perambatannya terjadi pada medium yang sama. </teks>
+    <gambar>bg5</gambar>
+    <ket>Gambar 8. Gitar dan Keyboard
+        Sumber: fineartamerica.com
+    </ket>
+    <subjudul>1.	Kuat Lemah dan Tinggi Rendah Bunyi</subjudul>
+    <teks>Bunyi ada yang kuat dan ada yang lemah. Jika bunyi yang anda dengar sangat keras dan melebihi ambang bunyi yang dapat diterima manusia, bunyi ini dapat merusak telingamu. Untuk mengetahui kekuatan bunyi, lakukan kegiatan kecil berikut. Petiklah senar gitar sehingga keluar bunyi (Gambar 9a). Kemudian, pada senar yang sama, petik kembali senar tersebut dengan simpangan yang agak besar (Gambar 9b). Apa yang terjadi?</teks>
+    <gambar>bg6</gambar>
+    <ket>Gambar 9. Getaran senar gitar dengan (a) simpangan kecil dan (b) simpangan besar. Sumber: books.google.co.id
+    </ket>
+    <ket>Senar yang dipetik dengan simpangan besar akan berbunyi lebih kuat daripada dipetik dengan simpangan kecil (Gambar 9). Dalam hal ini, simpangan yang anda berikan pada senar merupakan amplitudo. </ket>
+    <!--<web>bw2</web>
+    <ket>Animasi 2. Amplitudo Mempengaruh Kuat Bunyi
+        Sumber: www.animations.physics.unsw.edu.au
+    </ket>-->
+    <teks>Jadi kekuatan bunyi ditentukan oleh besarnya amplitudo bunyi tersebut. Bila dua sumber bunyi yang kerasnya sama, tetapi jarak antara sumber bunyi dengan pendengar berbeda maka sumber bunyi yang lebih dekat dengan pendengar akan terdengar lebih kuat. Jadi, dapat disimpulkan bahwa faktor-faktor yang memengaruhi kuat bunyi adalah (a) amplitudo,(b) jarak sumber bunyi dari pendengar,dan (c) jenis medium.</teks>
+    <teks>Apakah kalian mengetahuu bahwa pada orang dewasa, suara perempuan lebih tinggi dibandingkan suara laki-laki? Pita suara laki-laki yang bentuknya lebih panjang dan berat, mengakibatkan laki-laki memiliki nada dasar sebesar 125 Hz, sedangkan perempuan memiliki nada dasar satu oktaf (dua kali lipat) lebih tinggi, yaitu sekitar 250 Hz. Bunyi dengan frekuensi tinggi akan menyebabkan telinga sakit dan nyeri karena gendang telinga ikut bergetar lebih cepat. Tinggi rendahnya nada ini ditentukan oleh frekuensi bunyi tersebut. Semakin besar frekuensi bunyi, maka akan semakin tinggi nadanya. Sebaliknya, jika frekuensi bunyi kecil, maka nada akan semakin rendah.</teks>
+    <!--<web>bw3</web>
+    <ket>Animasi 3. Frekuensi Mempengaruh Tinggi Rendah Nada
+        Sumber: www.animations.physics.unsw.edu.au
+    </ket>-->
+    <!--
+    <ket>Cobalah Simulasi berikut ini!</ket>
+    <web>bw4</web>
+    <ket>Simulasi 1. Amplitudo Mempengaruh Kuat Bunyi dan Frekuensi Mempengaruh Tinggi Rendah Nada. Sumber: phet.colorado.edu</ket>
+    -->
+    <teks>Bagaimana dengan bunyi gitar? Mengapa gitar dapat menghasilkan nada yang berbeda-beda? Agar mengetahui faktor-faktor yang menentukan tinggi rendah nada pada dawai atau senar simak Video 5 berikut ini.</teks>
+    <video>bv3</video>
+    <ket>Video 5. Suara dawai dengan frekuensi yang berbeda
+        Sumber: https://www.youtube.com/watch?v=E891Xdjwq1g
+    </ket>
+    <coba>
+        <judul>  Aspek Kognitif:Mengidentifikasi faktor-faktor yang memengaruhi frekuensi bunyi pada dawai</judul>
+        <judul>  Aspek K.Komunikasi: Menuliskan ide/pendapat yang tepat dan relevan dengan konten</judul>
+        <soal>1)	Simak ‘Video 5 Suara dawai dengan frekuensi yang berbeda’
+2)	Dengarkan bunyi yang dihasilkan masing-masing senar. Bagaimana hubungan panjang tali dawai dengan frekuensi?
+3)	Apakah frekuensi bunyinya semakin besar ketika tegangan diperbesar? Bagaimana hubungan tegangan dawai dengan frekuensi?
+4)	Apa saja faktor-faktor yang mempengaruhi frekuensi bunyi sebuah dawai?
+        </soal>
+    </coba>
+    <teks>Mersenne, seorang fisikawan berkebangsaan Perancis, membuat alat untuk menyelidiki hubungan antara frekuensi dengan tinggi nada. Alat percobaannya dinamakan sonometer (Gambar 10). Mersenne mencoba sonometer dengan penampang kawat yang berbeda-beda dan panjang tumpuan kawat yang bermacam macam. Marsenne menyelidiki hubungan frekuensi yang dihasilkan oleh senar yang bergetar dengan panjang senar, penampang senar, tegangan, dan jenis senar.</teks>
+    <gambar>bg7</gambar>
+    <ket>Gambar 10. Sonometer
+        Sumber: www. aplus-me.com
+    </ket>
+    <teks>Dari hasil penelitiannya, Mersenne menarik beberapa kesimpulan. Kesimpulannya dikenal dengan hukum Mersenne yang bunyinya sebagai berikut.
+        a.	Semakin panjang senar semakin rendah frekuensi yang dihasilkan. Sehingga, frekuensi senar berbanding terbalik dengan panjang tumpuan senar.
+        b.	Semakin besar luas penampang senar, semakin rendah frekuensi yang dihasilkan. Sehingga frekuensi senar berbanding terbalik dengan akar luas penampang senar.
+        c.	Semakin besar tegangan senar semakin tinggi frekuensi yang dihasilkan. Dengan demikian, frekuensi senar berbanding lurus dengan akar tegangan senar.
+        d.	Semakin kecil massa jenis senar semakin tinggi frekuensi yang dihasilkan. Dengan demikian, frekuensi senar berbanding terbalik dengan akar massa jenis.
+        Secara matematis, hukum Mersenne dapat dirumuskan dalam persamaan 1 sebagai berikut.
+    </teks>
+    <gambar>bg8</gambar>
+    <teks>Keterangan:
+        l : panjang senar (m)
+        F : gaya tegangan senar (N)
+        A : luas penampang senar (m2)
+        ρ : massa jenis senar (kg/m3)
+    </teks>
+    <subjudul>2.	Timbre (Warna Bunyi)</subjudul>
+    <teks>Di dalam suatu orkestra, anda pasti mendengar berbagai macam bunyi. Ada piano, flute, violin dan sebagainya (Video 6). Telingamu mampu membedakan bunyi-bunyi tersebut.</teks>
+    <video>bv4</video>
+    <ket>Video 6. Ilustrasi Orkestra
+        Sumber: https://www.youtube.com/watch?v=EdeBDir5DwA
+    </ket>
+    <teks>Ketika sebuah flute dan violin memainkan lagu yang sama, anda masih dapat membedakan suara kedua alat musik tersebut (Video 6). Meskipun kedua alat musik tersebut mempunyai frekuensi yang sama, tetapi bunyi yang dihasilkan oleh kedua sumber bunyi tersebut bersifat unik.  Untuk melihat bentuk gelombang bunyi dalam setiap instrumen bunyi perhatikan Gambar 11.</teks>
+    <gambar>bg9</gambar>
+    <ket>Gambar 11. Bentuk Gelombang Bunyi dalam Setiap Instrumen Bunyi
+        Sumber: simplyfyingtheory.com
+    </ket>
+    <!--<web>bw5</web>
+    <ket>Animasi 4. Bentuk Gelombang Bunyi dalam Setiap Instrumen Bunyi
+        Sumber: www.animations.physics.unsw.edu.au
+    </ket>
+    -->
+    <teks>Keunikan setiap bunyi dengan bunyi lainnya meskipun mempunyai frekuensi yang sama disebut sebagai warna bunyi. Dapatkah anda menyebutkan contoh lain yang menunjukkan bahwa bunyi memiliki warna yang berbeda meskipun frekuensinya sama?</teks>
+    <subjudul>3.	Frekuensi Bunyi</subjudul>
+    <teks>Apakah  telinga manusia dapat mendengarkan semua frekuensi bunyi? Tentu tidak, setiap makhluk hidup mempunyai ambang pendengaran yang berbeda-beda. Pendengaran manusia dan hewan tentu akan berbeda. Ada bunyi yang dapat didengar manusia, tetapi tidak oleh hewan dan sebaliknya. Jika Anda dapat mendengar semua rentang frekuensi, Anda tidak akan pernah beristirahat dengan tenang karena getaran-getaran rendah dari binatang tertentu atau getaran-getaran tinggi sekalipun akan terdengar. Menurut frekuensinya bunyi di bagi menjadi tiga kelompok, yaitu frekuensi infrasonik dengan rentang 0-20 Hz, frekuensi audible/audiosonik 20-20.000Hz, dan frekuensi ultrasonik dengan rentang > 20.000 Hz, seperti terlihat pada Gambar 12.</teks>
+    <gambar>bg10</gambar>
+    <ket>Gambar 12. Spektrum Bunyi
+        Sumber: codelectron.com; www.wikiwand.com
+    </ket>
+    <teks>Berikut merupakan penjelasan tiap frekuensi bunyi (Gambar 12) yang dikelompokkan ke dalam tiga kelompok, yaitu ultrasonik, audiosonik, dan infrasonik.
+        a.	Bunyi yang mempunyai frekuensi di atas 20.000 Hz disebut ultrasonik. Bunyi ini dapat didengar oleh beberapa hewan seperti kucing, anjing, lumba-lumba, kelelawar dan jenis hewan lainnya. Kelelawar menggunakan frekuensi ini sebagai navigasi ketika terbang di kegelapan. Kelelawar dapat menemukan jalan atau mangsanya dengan cara mengeluarkan bunyi ultrasonik, seperti terlihat pada Gambar 13.
+    </teks>
+    <gambar>bg11</gambar>
+    <ket>Gambar 13. Sistem Sonar pada Kelelawar
+        Sumber: McGraw-Hill, 2007, www.hngn.com
+    </ket>
+    <!--<web>bw6</web>
+    <ket>Animasi 5. Sistem Sonar pada Kelelawar
+        Sumber: www.animations.physics.unsw.edu.au
+    </ket>
+    -->
+    <teks>Bunyi ini akan dipantulkan oleh benda-benda di sekelilingnya, kemudian pantulan bunyi ini dapat ditangkap kembali sehingga kelelawar dapat mengetahui jarak dirinya dengan benda-benda di sekitarnya. Sonar atau Sound Navigation and Ranging merupakan suatu metode penggunaan gelombang ultrasonik untuk menaksir ukuran, bentuk, letak, dan kedalaman benda-benda. Gelombang yang dikeluarkan akan dipantulkan kembali oleh objek yang akan dilewatinya dan diterima oleh receiver (alat penerima) yang berada di tubuh  kelelawar, dapat dilihat pada Gambar 14. Kemampuan kelelawar untuk menentukan lokasi ini disebut dengan ekolokasi.</teks>
+    <gambar>bg12</gambar>
+    <ket>Gambar 14. Sistem Ekolokasi pada Kelelawar
+        Sumber: doc.google
+    </ket>
+    <teks>Sama seperti pada kelelawar, lumba-lumba mempunyai sistem yang memungkinkan untuk berkomunikasi dan menerima rangsangan, yaitu sistem sonar (Gambar 15).</teks>
+    <gambar>bg13</gambar>
+    <ket>Gambar 15. Sistem Sonar pada Lumba-Lumba
+        Sumber: www.hngn.com
+    </ket>
+    <teks>Bagaimana cara kerja sistem sonar pada lumba-lumba? Proses pemancaran dan penerimaan suara lumba-lumba dapat dilihat pada Gambar 16. Lumba- lumba bernapas melalui lubang yang ada di atas kepalanya. Di bawah lubang ini, terdapat kantung-kantung kecil berisi udara. Agar dapat menghasilkan suara berfrekuensi tinggi, lumba-lumba mengalirkan udara pada kantung-kantung ini. Selain itu, kantung udara ini juga berperan sebagai alat pemfokusan bunyi. Kemudian, bunyi ini dipancarkan ke segala arah secara terputus-putus. Gelombang bunyi lumba-lumba akan dipantulkan kembali bila membentur suatu benda. Pantulan gelombang bunyi tersebut ditangkap di bagian rahang bawahnya yang disebut “jendela akustik”. Dari bagian tersebut, informasi bunyi diteruskan ke telinga bagian tengah, dan akhirnya ke otak untuk diterjemahkan. Dengan cara tersebut, lumba- lumba mengetahui lokasi, ukuran, dan pergerakan mangsanya. </teks>
+    <gambar>bg14</gambar>
+    <ket>Gambar 16. Proses Pemancaran dan Penerimaan Suara Lumba-lumba
+        Sumber: digilib.unila.ac.id
+    </ket>
+    <teks>b.	Bunyi yang mempunyai frekuensi antara 20 Hz – 20.000 Hz disebut audiosonik. Selang frekuensi bunyi ini dapat didengar manusia. Ketika Anda menggetarkan penggaris di meja dengan getaran kurang dari 20 getaran per sekon, kita tidak dapat mendengar bunyi (Gambar 17). Kita baru dapat mendengarkan bunyi ketika penggaris menghasilkan 20 getaran per sekon atau lebih.</teks>
+    <gambar>bg15</gambar>
+    <ket>Gambar 17. Penggaris Plastik yang Digetarkan
+        Sumber: Dok. Kemdikbud
+    </ket>
+    <teks>c.	Bunyi yang mempunyai frekuensi di bawah 20 Hz disebut infrasonik. Bunyi ini dapat didengar oleh binatang-binatang tertentu, seperti jangkrik (Gambar 18). Jangkrik akan segera menjauh atau menghindar pada saat mendengar langkah manusia atau binatang lain yang mendekatinya dari tempat jauh. </teks>
+    <gambar>bg16</gambar>
+    <ket>Gambar 18. Jangkrik mampu mendengar bunyi infrasonik. Sumber: budidayajangkrik.com</ket>
+    <teks>Tidak hanya jangkrik, gajah (Gambar 19) juga merupakan hewan yang mampu mendengar suara infrasonik. Gajah mampu mendengar bunyi dengan frekuensi 14-40 Hz. Gajah menggunakan medium tanah dan udara sebagai medium perambatan bunyi. Gajah memiliki pendengeran yang tajam dan menghasilkan bunyi infrasonik yang berupa nada seperti halnya hewan lain, gajah menggunakan bunyi infrasonik salah satunya sebagai pemberitahuan akan bahaya. Selain itu, bunyi infrasonik yang dikeluarkan oleh gajah digunakan untuk sistem komunikasi jarak jauh gajah yang dapat membantu mengumpulkan segerombolan gajah dalam suatu koordinasi gerakan tanpa kehilangan kontak. Bunyi ini juga dapat membantu jantan menemukan lokasi betina terutama pada musim kawin. Seperti halnya gelombang seismik saat terjadinya gempa bumi gajah mengirimkan bunyi infrasonik saat memanggil gajah yang lain. Gajah membuat getaran dengan cara menghentakkan kakinya di tanah dan mengepakkan telinganya. Getaran dari tanah tersebut digunakan untuk saling menyapa atau memperingati apabila ada mangsa.</teks>
+    <gambar>bg17</gambar>
+    <ket>Gambar 19. Gajah
+        Sumber:id.wikipedia.org
+    </ket>
+    <teks>Selain itu, burung merpati (Gambar 20) merupakan contoh lain hewan yang dapat mendengar bunyi infrasonik sampai frekuensi 0,5 Hz yang berfungsi untuk mengetahui lokasi tempat mereka berada dan tempat yang akan dituju. </teks>
+    <gambar>bg18</gambar>
+    <ket>Gambar 20. Burung merpati
+        Sumber: www.idntimes.com
+    </ket>
+    <subjudul>4.	Desah, Nada dan Dentum</subjudul>
+    <subjudul>a.	Desah</subjudul>
+    <teks>
+        Jika anda berada di pasar atau di tempat-tempat keramaian lainnya, anda dapat mendengar suara-suara orang yang sedang berbicara. Tidak semua suara orang berbicara dapat anda dengar, ada yang jelas dan ada yang tidak. Suara orang bicara yang dekat dengan anda mungkin dapat anda dengar dengan jelas tetapi tidak yang letaknya jauh darimu. Semua suara di keramaian bersatu menjadi suara gemuruh, meskipun anda berkonsentrasi berusaha mendengar suara-suara itu, anda tetap tidak dapat melakukannya.
+        Di keramaian, setiap bunyi yang mempunyai frekuensi berbeda berkumpul sehingga menimbulkan bunyi yang tak teratur sehingga anda akan sulit mengidentifikasi suara di keramaian tersebut. Bunyi yang berasal dari keramaian adalah bunyi yang mempunyai frekuensi tak beraturan. Bunyi yang mempunyai frekuensi tak teratur disebut sebagai desah. Contoh lain dari desah adalah bunyi angin, bunyi kendaraan bermotor, dan bunyi suara mesin. Dapatkah anda menyebutkan yang lainnya?
+    </teks>
+    <subjudul>b.	Nada</subjudul>
+    <teks>Anda pasti menyukai musik, bukan? Anda sudah mengetahui bahwa frekuensi adalah banyaknya gelombang bunyi dalam satu sekon. Banyaknya gelombang tiap satu sekon ada yang teratur dan ada yang tidak teratur. Bunyi alat musik adalah salah satu contoh dari bunyi yang frekuensinya teratur.
+        Bunyi yang mempunyai frekuensi tertentu disebut nada. Anda akan lebih nyaman ketika mendengarkan bunyi musik, dibandingkan dengan bunyi ramainya orang yang ada di pasar. Mengapa? Bunyi musik akan lebih enak didengarkan karena bunyi musik memiliki frekuensi getaran teratur yang disebut nada. Berikut ini merupakan beberapa deret nada yang berlaku standar (Gambar 21).
+    </teks>
+    <gambar>bg19</gambar>
+    <ket>Gambar 21. Deret nada
+        Sumber: Pendalaman materi. Ristekdikti 2018
+    </ket>
+    <subjudul>c.	Dentum</subjudul>
+    <teks>Dentum merupakan bunyi keras yang masih dapat didengar oleh telinga manusia. Contoh dentum adalah bunyi senapan, bunyi bom, bunyi petasan, dentuman ledakan gunung meletus (Gambar 22) dan bunyi geledek. </teks>
+    <gambar>bg20</gambar>
+    <ket>Gambar 22. Dentuman ledakan anak krakatau
+        Sumber: www.Liputan6.com
+    </ket>
+</materi>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<materi>
+    <judul urut="0">MEKANISME PENDENGARAN PADA MANUSIA</judul>
+    <teks urut="1">Pernahkah Anda berpikir bagaimana seseorang dapat mendengar bunyi? Apa yang dimaksud dengan bunyi? Setiap hari, kita dapat mendengar suara burung berkicau, orang bernyanyi, suara alat musik. Suara yang Anda dengar dikenal dengan bunyi. Bunyi merupakan gelombang longitudinal yang merambatkan energi gelombang di udara sampai terdengar oleh reseptor pendengar. Darimana bunyi berasal? Agar mengetahui bagaimana bunyi ini dibentuk, perhatikan kegiatan pada Video 1 berikut.</teks>
+    <video urut="2">av1</video>
+    <ket urut="3">Video 1. Getaran Senar dapat Menimbulkan Bunyi
+        Sumber:https://www.youtube.com/watch?v=g5WB-p-QBJc</ket>
+    <teks urut='4'>Berdasarkan kegiatan pada Video 1, Anda dapat menemukan bahwa gitar mengeluarkan suara pada saat senar tersebut bergetar. Namun pada saat senar tersebut diam, benda tidak bersuara. Oleh karena itu, dapat disimpulkan bahwa bunyi ditimbulkan oleh benda-benda yang bergetar. Bunyi gitar menuju telinga dihantarkan oleh rapatan dan regangan partikel-partikel udara (Gambar 1). Pada waktu bunyi keluar dari gitar, langsung akan menumbuk molekul-molekul udara. Molekul udara ini akan menumbuk udara di sebelahnya yang mengakibatkan terjadinya rapatan dan regangan, demikian seterusnya sampai ke telinga.</teks>
+    <gambar urut='5' w="1000" h="500">mekanisme</gambar>
+    <ket urut='6'>Gambar 1. Gelombang Bunyi yang Merambat Menuju Telinga
+        Sumber: guitarsix.com</ket>
+    <teks>Gambar 1 diatas menunjukkan bahwa bunyi sampai di telinga merambat dalam bentuk gelombang. Gelombang yang tersusun dari rapatan dan regangan adalah gelombang longitudinal. Tanpa adanya medium atau zat perantara, bunyi tidak dapat merambat. Hal ini mengakibatkan bunyi termasuk jenis gelombang mekanis. Begitu pula ketika kita mendengar bunyi akan dirambatkan ke telinga kita melalui udara. Jadi dapat disimpulkan bahwa bunyi dapat terdengar bila ada (1) sumber bunyi; (2) medium/zat perantara; (3) alat penerima/ pendengar.</teks>
+    <teks>Lalu, mengapa Anda dapat mendengar bunyi? Agar mengetahui proses mendengar, kita perlu memahami terlebih dahulu struktur telinga sebagai alat pendengaran (Gambar 2). Telinga dibagi menjadi tiga bagian, yaitu telinga luar, telinga tengah, dan telinga dalam. Perhatikan Gambar 2!</teks>
+    <gambar w="1000" h="500">anatomi</gambar>
+    <ket>Gambar 2. Anatomi Telinga Manusia
+        Sumber: Campbell et al. 2008</ket>
+    <teks>Bunyi yang terdengar oleh telinga kita memerlukan medium. Jadi, mungkinkah kita dapat  mendengar di ruang hampa udara? Tentu saja tidak. Bunyi memerlukan medium untuk merambat. Apakah di telinga terdapat medium untuk merambatkan bunyi? Telinga luar dan telinga tengah terisi oleh udara dan rongga telinga dalam terisi oleh cairan limfa. Bagian-bagian penyusun telinga dan fungsinya dapat dilihat pada Tabel 1.</teks>
+    <ket>Tabel 1. Struktur dan Fungsi Bagian pada Telinga</ket>
+    <gambar w="1000" h="2000">tabel1</gambar>
+    <teks>Proses mendengar pada manusia melalui beberapa tahap. Perhatikan pada Gambar 3. dan Video 2 !</teks>
+    <gambar w="1000" h="500">a_gambar3</gambar>
+    <ket>Gambar 3. Proses Mendengar pada Manusia
+        Sumber: oerpub.github.io</ket>
+    <ket>Simak video berikut !</ket>
+    <video>video2</video>
+    <ket>Video 2. Mekanisme Pendengaran pada Manusia
+        Sumber: https://www.youtube.com/watch?v=5UkDCbAktMQ</ket>
+    <teks>Proses mendengar pada manusia (Gambar 3 dan Video 2) diawali dari lubang telinga menerima gelombang dari sumber suara. Gelombang suara yang masuk ke dalam lubang telinga akan menggetarkan gendang telinga yang disebut membran timpani. Getaran dari membran timpani ditransmisikan melintasi telinga tengah melalui tiga tulang kecil, yang terdiri atas tulang martil, landasan, dan sanggurdi. Telinga tengah dihubungkan ke faring oleh tabung eustacius. Getaran dari tulang sanggurdi ditransmisikan ke telinga dalam melalui membran jendela oval ke koklea. Koklea merupakan suatu tabung yang bergulung seperti rumah siput. Koklea berisi cairan limfa. Getaran dari jendela oval ditransmisikan ke dalam cairan limfa dalam ruangan koklea. Di bagian dalam ruangan koklea terdapat organ korti. Organ korti berisi cairan sel-sel rambut yang sangat peka. Inilah reseptor getaran yang sebenarnya. Sel-sel rambut ini akan bergerak ketika ada getaran di dalam koklea, sehingga menstimulasi getaran yang diteruskan oleh saraf auditori ke otak.</teks>
+    <coba>
+        <judul>Aspek Kognitif: Menjelaskan cara kerja bagian-bagian telinga hingga dapat mendengar bunyi
+            Aspek K.Komunikasi: Menuliskan informasi dengan jelas dan dapat dimengerti
+        </judul>
+        <soal>Tahukah anda, Darimana bunyi berasal? Bagaimana cara kerja bagian-bagian telinga hingga dapat mendengar bunyi? Gunakan berbagai jenis media untuk mencari informasi (tuliskan sumber informasi yang digunakan)!</soal>
+    </coba>
+</materi>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<materi>
+    <judul urut="0">CEPAT RAMBAT GELOMBANG BUNYI</judul>
+    <teks>Pernahkah anda melihat halilintar? Kilatan halilintar dan suaranya tampak tidak terjadi dalam satu waktu seperti terlihat pada Video 7. Sebenarnya, kilatan halilintar dan suaranya terjadi bersamaan. Mengapa kita melihat kilatan halilintar lebih dahulu, kemudian disusul suaranya? Hal ini berkaitan dengan cepat rambat gelombang. Halilintar terdiri atas dua gelombang, yaitu gelombang cahaya yang berupa kilatannya dan gelombang bunyi yang berupa suaranya. Karena kedua gelombang ini mempunyai cepat rambat gelombang yang berbeda, dua gelombang ini tampak terjadi beriringan.</teks>
+    <video>cv1</video>
+    <ket>Video 7. Halilintar
+        Sumber:https://www.youtube.com/watch?v=EYXyrMgLOyQ
+    </ket>
+    <teks>Ternyata cepat rambat gelombang cahaya lebih besar dari cepat rambat gelombang bunyi. Oleh karena itu, kilatan cahaya akan lebih dahulu kita lihat (Video 7), kemudian disusul suaranya. </teks>
+    <tugas>
+        <judul>
+            Aspek Kognitif: Mengidentifikasi hubungan antara frekuensi bunyi dengan cepat rambat bunyi
+            Aspek K.Komunikasi:
+            •	Menuliskan informasi dengan jelas dan dapat dimengerti
+            •	Menuliskan ide/pendapat yang tepat dan relevan dengan konten
+            •	Memberikan representasi yang tepat secara ilmiah
+            •	Menuliskan sumber informasi/sumber belajar yang digunakan
+        </judul>
+        <soal>Bukalah Simulasi 1 berikut.</soal>
+        <ket>Simulasi 1. Kecepatan Gelombang Bunyi
+            Sumber: https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html
+        </ket>
+        <soal>Setelah itu, atur frekuensi dengan menggeser ‘Frequency’
+            Berdasarkan simulasi diatas, buatlah laporan praktikum mengenai fenomena gelombang bunyi. Bagaimana hubungan frekuensi dengan cepat rambat bunyi? Jelaskan dalam bentuk verbal dan matematis!
+        </soal>
+    </tugas>
+    <web>bw2</web>
+    <teks>Cepat rambat gelombang yang merambat melalui suatu medium dipengaruhi oleh besar panjang gelombang (λ) dan frekuensi (f). Nilai kecepatan gelombang bunyi berbanding lurus dengan frekuensinya. Cepat rambat gelombang bunyi dapat dicari dengan persamaan 2.</teks>
+    <teks>v=f×λ</teks>
+    <teks>Keterangan:
+        v = cepat rambat gelobang bunyi (m/s)
+        f = frekuensi bunyi (Hz)
+        λ = panjang gelombang bunyi (m)
+    </teks>
+    <subjudul>1.  Cepat Rambat Bunyi Bergantung pada Suhu</subjudul>
+    <teks>Perlu diingat bahwa kecepatan merambatnya bunyi dalam suatu medium tidak hanya bergantung pada jenis medium, tetapi bergantung juga pada suhu medium tersebut. Cepat rambat gelombang bunyi di udara pada suhu 10°C akan berbeda dengan cepat rambat gelombang bunyi di udara pada suhu 20°C. Tabel 2 memperlihatkan kecepatan perambatan bunyi di udara pada suhu yang berbeda. Pada Tabel 2 terlihat bahwa pada medium yang sama yaitu udara, gelombang bunyi merambat dengan kecepatan berbeda-beda.</teks>
+    <ket>Tabel 2 Pengaruh suhu pada cepat rambat gelombang bunyi pada medium udara</ket>
+    <gambar>c1</gambar>
+    <coba>
+        <judul>Aspek Kognitif: Menyimpulkan hubungan suhu terhadap cepat rambat bunyi
+            Aspek K.Komunikasi: Menuliskan informasi dengan jelas dan dapat dimengerti; Memberikan representasi yang tepat secara ilmiah
+        </judul>
+        <soal>Berdasarkan Tabel 2. Bagaimana hubungan suhu dengan cepat rambat bunyi? Jelaskan dalam bentuk verbal, grafik, dan matematis!</soal>
+    </coba>
+    <subjudul>2.   Cepat rambat Bunyi Bergantung pada Medium</subjudul>
+    <teks>Gelombang bunyi merambatkan energi. Pada gelombang bunyi, energi merambat melalui tumbukan antarpartikel mediumnya. Dalam zat padat yang susunan partikelnya lebih rapat daripada zat cair dan gas, tumbukan antarpartikel jauh lebih mudah dan cepat. Oleh karena itu, cepat rambat bunyi pada zat padat jauh lebih besar daripada cepat rambat bunyi pada zat cair dan gas. Kecepatan bunyi pada beberapa medium pada suhu yang sama ditunjukkan pada Tabel 3.</teks>
+    <ket>Tabel 3. Cepat rambat gelombang bunyi pada beberapa medium pada suhu 20o C </ket>
+    <gambar>c2</gambar>
+    <ket>Sumber: https://simdos.unud.ac.id</ket>
+    <teks>Cepat rambat gelombang bunyi pada medium dapat ditentukan secara eksperimen. Salah satu eksperimen pengukuran cepat rambat gelombang bunyi adalah eksperimen Melde (Gambar 23). Dalam percobaan ini digunakan sumber getaran yang dapat menimbulkan gelombang pada kawat. Kawat tersebut dihubungkan dengan beban melalui katrol. Dalam eksperimen modern, skema eksperimen Melde secara prinsip ditunjukkan pada Gambar 23.</teks>
+    <gambar>cepatrambat</gambar>
+    <ket>Gambar 23. Skema prinsip eksperimen Melde untuk mengukur cepat rambat bunyi pada dawai. Sumber: Pustekkom Depdiknas 2008</ket>
+    <teks>Penggetar elektrik menggetarkan dawai dengan membentuk berbagai variasi panjang gelombang. Pada panjang gelombang tertentu (λ), frekuensi bunyi yang timbul diukur menggunakan frekuensimeter, diperoleh nilai  f. Cepat rambat bunyi pada dawai diperoleh dengan rumus umum, v=f×λ. Dari eksperimen yang dilakukannya, Melde mendapatkan suatu kesimpulan, yaitu:“Cepat rambat gelombang bunyi pada dawai berbanding lurus dengan akar dari panjang dawai dan akar dari nilai gaya tegang dawai, serta berbanding terbalik dengan akar dari massa dawai”</teks>
+    <teks>Bentuk matematis dari hasil eksperimen Melde ditunjukkan dalam persamaan 3.</teks>
+    <gambar>c4</gambar>
+    <teks>Keterangan:
+        v = kecepatan gelombang bunyi pada dawai
+        m = massa dawai (kg)
+        F = mg = besar tegangan dawai (N),
+        g = besar percepatan gravitasi bumi.
+        l = panjang dawai (m)
+    </teks>
+    <teks>Nilai m/l adalah nilai massa dawai per satuan panjang dawai yang disimbolkan dengan μ. Dengan demikian, cepat rambat gelombang bunyi pada dawai berdasarkan eksperimen Melde dapat dinyatakan dengan persamaan 4.</teks>
+    <gambar>c5</gambar>
+    <subjudul>a.   Cepat Rambat Bunyi Pada Zat Padat</subjudul>
+    <teks>Pada zaman dahulu, orang mendekatkan telinganya ke atas rel untuk mengetahui kapan kereta datang (Gambar 24). Hal tersebut membuktikan bahwa bunyi dapat merambat pada zat padat.  Besarnya cepat rambat bunyi pada zat padat tergantung pada sifat elastisitas dan massa jenis zat padat. Secara matematis, besarnya cepat rambat bunyi pada zat padat didefinisikan dalam persamaan 5. </teks>
+    <gambar>c6</gambar>
+    <teks>Keterangan:
+        v: cepat rambat bunyi pada zat padat (m/s)
+        E: modulus Young medium (N/m2)
+        ρ: massa jenis medium (kg/m3)
+    </teks>
+    <gambar>c7</gambar>
+    <ket>Gambar 24. Bunyi derap kereta yang masih jauh dapat didengar melalui rel kereta
+        Sumber: id.sodiummedia.com
+    </ket>
+    <subjudul>b.   Cepat Rambat Bunyi pada Zat Cair</subjudul>
+    <teks>Bawalah dua buah batu, kemudian pukulkan kedua batu tersebut satu sama lain di dalam air (Gambar 25). Meskipun batu berada dalam air, Anda masih bisa mendengar suara batu tersebut. Hal tersebut membuktikan bahwa bunyi dapat merambat pada zat cair. Besarnya cepat rambat bunyi dalam zat cair tergantung pada Modulus Bulk dan massa jenis zat cair tersebut. Secara matematis dituliskan dalam persamaan 6.</teks>
+    <gambar>c8</gambar>
+    <teks>Keterangan:
+        v: cepat rambat bunyi pada zat cair (m/s)
+        B: modulus Bulk medium (N/m2)
+        ρ: massa jenis medium (kg/m3)
+    </teks>
+    <gambar>c92</gambar>
+    <ket>Gambar 25. Dua batu yang dipukul di dalam air masih dapat didengar oleh telinga
+        Sumber: repository.uksw.edu
+    </ket>
+    <subjudul>c.   Cepat Rambat Bunyi pada Gas</subjudul>
+    <teks>Di udara tentu Anda lebih sering mendengar berbagai macam bunyi. Anda bisa mendengar suara lonceng dari kejauhan karena bunyi merambat melalui udara (Gambar 26). Besarnya cepat rambat bunyi pada zat gas tergantung pada sifat-sifat kinetik gas.  Cepat rambat bunyi dalam gas dapat dinyatakan dengan:</teks>
+    <gambar>c9</gambar>
+    <teks>Keterangan:
+        p = tekanan gas
+        γ = tetapan Laplace.
+        ρ = kerapatan
+    </teks>
+    <gambar>c102</gambar>
+    <ket>Gambar 26. Bunyi dari lonceng merambat melalui udara
+        Sumber: www.aftanalisis.com
+
+    </ket>
+    <teks>Berdasarkan persamaan gas ideal ρ=pM/RT, atau p/ρ=RT/M, maka diperoleh persamaan dasar untuk menghitung cepat rambat bunyi dalam gas yaitu:</teks>
+    <gambar>c10</gambar>
+    <teks>Keterangan:
+        v: cepat rambat bunyi pada zat gas (m/s)
+        γ: konstanta Laplace
+        R: tetapan umum gas (8,31 J/molK)
+        T: suhu mutlak gas (K)
+        M: massa atom atau molekul relatif gas (kg/mol)
+    </teks>
+</materi>

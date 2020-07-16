@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<materi>
+    <judul urut="0">PELAYANGAN</judul>
+    <teks urut="1">Layangan gelombang adalah peristiwa membesar – mengecil – membesar atau mengecil – membesar – mengecil amplitudo gelombang hasil interferensi dari dua gelombang dengan selisih frekuensi kedua gelombang kecil (Gambar 40).</teks>
+    <gambar>pelayangan</gambar>
+    <ket>Gambar 40. (a) Dua gelombang yang frekuensinya hampir sama.(b) Hasil superposisi kedua gelombang menghasilkan pelayangan. Sumber: Zenius.net</ket>
+    <teks>Layangan pada gelombang bunyi ditandai dengan terdengarnya bunyi keras – lemah – keras atau lemah – keras – lemah. Banyaknya layangan per detik sama dengan selisih frekuensi antara kedua sumber bunyi yang menimbulkannya. Frekuensi layangan gelombang (f) = setengah dari selisih frekuensi – frekuensi kedua gelombang yang berinterferensi. Secara matematis ditulis dalam persamaan 15.</teks>
+    <gambar>gg1</gambar>
+    <teks>Dengan : f = frekuensi layangan
+        f1 dan f2 = frekuensi-frekuensi kedua gelombang yang berinterferensi
+        f1 > f2,  ,  f1 dan f2 berselisih sedikit
+    </teks>
+    <teks>Agar lebih memahami materi pelayangan bunyi, bukalah Video 9 berikut ini!</teks>
+    <video>gv1</video>
+    <ket>Video 9. Percobaan Sederhana Pelayangan Bunyi
+        Sumber: https://www.youtube.com/watch?v=VNMtCwQwsmM
+    </ket>
+    <coba>
+        <judul>Aspek Kognitif: Menjelaskan syarat terjadinya pelayangan bunyi
+            Aspek K.Komunikasi: Menuliskan ide/pendapat yang relevan degan konten.
+        </judul>
+        <soal>Setelah anda menonton video ‘percobaan sederhana pelayangan bunyi’, Berikanlah pendapat mengenai syarat terjadinya resonansi! Gunakan berbagai jenis media untuk mencari informasi (tuliskan sumber informasi yang digunakan)!</soal>
+    </coba>
+    <gambar>gg2</gambar>
+    <coba>
+        <judul>Aspek Kognitif: Menentukan frekuensi layangan bunyi dalam fenomena sehari-hari</judul>
+        <soal>Seorang anak diam di pinggir jalan. Pada saat itu dari samping kiri bergerak mobil ambulan dengan kecepatan 72 km/jam sambil membunyikan sirine yang frekuensinya 1.000 Hz dan dari sebelah kanan bergerak sebuah bis dengan kecepatan 54 km/jam sambil membunyikan klaksonnya yang mempunyai frekuensi 1000 Hz. Apabila pada saat itu kecepatan bunyi di udara 340 m/s dan udara di sekitar dianggap tenang, tentukan berapa frekuensi layangan bunyi yang didengar anak tersebut!</soal>
+    </coba>
+</materi>

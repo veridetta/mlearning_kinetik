@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<latihan>
+    <soal>
+        <isi><teks>Jika seorang astronot memukul genderang di bulan, ia tidak dapat mendengar suara tersebut karena....</teks></isi>
+        <a><teks>gravitasi di bulan sangat kecil</teks></a>
+        <b><teks>di bulan tidak ada udara sebagai perantara bunyi</teks></b>
+        <c><teks>angkasa luar terlalu luas, tidak ada pemantulan bunyi</teks></c>
+        <d><teks>suhu sangat dingin, gelombang bunyi membeku</teks></d>
+        <e><teks>tekanan sangat rendah</teks></e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi><teks>Anda berdiri di samping tiang lampu merah ketika sedang perjalanan ke sekolah. Dari kejauhan terdengar suara sirene ambulans meskipun mobil ambulans belum terlihat. Peristiwa ini menunjukkan bahwa bunyi dapat....</teks></isi>
+        <a><teks>merambat melalui medium udara</teks></a>
+        <b><teks>bersuspensi dengan gelombang lain</teks></b>
+        <c><teks>beresonansi dengan udara sekitar</teks></c>
+        <d><teks>dipantulkan oleh benda sekitar</teks></d>
+        <e><teks>bertambah frekuensinya</teks></e>
+        <kunci>A</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Perhatikan gambar garputala yang bergetar berikut ini!</teks>
+            <gambar>t1</gambar>
+            <teks>
+                1.	Dihasilkan oleh dorongan yang berulang secara horizontal
+                2.	Dihasilkan oleh dorongan yang berulang secara vertikal
+                3.	Simbol C merupakan regangan dan simbol D merupakan rapatan
+                4.	Simbol C merupakan rapatan dan simbol D merupakan regangan
+                5.	Arah getarannya ditunjukkan oleh panah A dan arah rambatnya ditunjukkan oleh panah B
+                6.	Arah getarannya ditunjukkan oleh panah B dan arah rambatnya ditunjukkan oleh panah A
+                7.	 Arah getarannya searah dengan arah perambatan gelombang ditunjukkan oleh panah B
+                8.	Arah getarannya searah dengan arah perambatan gelombang ditunjukkan oleh panah A
+            </teks>
+            <teks>Pernyataan yang benar mengenai gambar di atas adalah . . . .</teks>
+        </isi>
+        <a><teks>1 dan 2</teks></a>
+        <b><teks>3 dan 4</teks></b>
+        <c><teks>5 dan 6</teks></c>
+        <d><teks>7 dan 8</teks></d>
+        <e><teks>8 dan 1</teks></e>
+        <kunci>e</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Bunyi dengan panjang gelombang 1,5 m memiliki kecepatan rambat sebesar 330 m/s.  Nilai frekuensi yang dihasilkan sebesar ....Hz dan termasuk dalam kategori....</teks>
+        </isi>
+        <a><teks>220, infrasonik</teks></a>
+        <b><teks>220, audiosonik</teks></b>
+        <c><teks>0,0045, ultrasonik</teks></c>
+        <d><teks>0,0015, infrasonik</teks></d>
+        <e><teks>0,0015, audiosonik</teks></e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Bunyi peluit kereta api dan sirine pabrik dapat didengar pada jarak yang lebih jauh selama musim hujan daripada musim panas. Pernyataan tersebut dikarenakan oleh....</teks>
+        </isi>
+        <a><teks>Massa jenis udara lembab ketika musim hujan lebih kecil daripada massa jenis udara kering. Cepat rambat bunyi dalam udara lembab lebih besar daripada udara kering.</teks></a>
+        <b><teks>Massa jenis udara kering saat musim panas lebih kecil daripada massa jenis udara lembab. Cepat rambat bunyi dalam udara kering lebih besar daripada udara lembab.</teks></b>
+        <c><teks>Massa jenis udara lembab saat musim hujan lebih kecil daripada massa jenis udara kering. Cepat rambat bunyi dalam udara lembab lebih besar daripada udara kering.</teks></c>
+        <d><teks>Massa jenis udara lembab saat musim hujan lebih besar daripada massa jenis udara kering. Cepat rambat bunyi dalam udara lembab lebih besar daripada udara kering.</teks></d>
+        <e><teks>Massa jenis udara lembab saat musim hujan lebih kecil daripada massa jenis udara kering. Cepat rambat bunyi dalam udara kering lebih besar daripada udara lembab.</teks></e>
+        <kunci>c</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Seorang anak mendekatkan telinganya pada rel kereta api seperti pada gambar berikut. Bunyi gemuruh kereta api terdengar oleh anak tersebut ketika telinganya didekatkan meskipun posisi kereta api masih jauh dan menuju ke arahnya</teks>
+            <gambar>t2</gambar>
+            <teks>Namun, ketika telinga tidak didekatkan tidak terdengar gemuruh. Peristiwa ini membuktikan bahwa….</teks>
+        </isi>
+        <a><teks>Bunyi kereta api hanya dapat merambat melalui rel kereta api.</teks></a>
+        <b><teks>Bunyi kereta api sebagian besar merambat melalui rel kereta api.</teks></b>
+        <c><teks>Jika ada rel kereta api, udara tidak dapat merambatkan bunyi.</teks></c>
+        <d><teks>Bunyi merambat pada rel kereta api lebih cepat daripada di udara.</teks></d>
+        <e><teks>Bunyi merambat pada rel kereta api lebih lambat daripada di udara.</teks></e>
+        <kunci>d</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Diketahui massa jenis air dan baja masing-masing 1.000 kg/m^3 dan 7.800 kg/m^3. Memiliki nilai modoulus bulk 2 x 10^9 n/m^2 dan modulus elastisitas 2 x 10^11 n/m^2. Maka cepat rambat bunyi yang terjadi pada baja sebesar....</teks>
+        </isi>
+        <a><teks>14,1 x 10^1 m/s</teks></a>
+        <b><teks>14,1 x 10^2 m/s</teks></b>
+        <c><teks>14,1 x 10^3 m/s</teks></c>
+        <d><teks>5,06 x 10^2 m/s</teks></d>
+        <e><teks>5,06 x 10^3 m/s</teks></e>
+        <kunci>e</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Pada siang hari suara tukang abang bakso terdengar samar-samar sehingga tidak begitu jelas terdengar, karena gelombang bunyi mengalami ….</teks>
+        </isi>
+        <a><teks>Perpaduan</teks></a>
+        <b><teks>Pengkutuban</teks></b>
+        <c><teks>Pembiasan</teks></c>
+        <d><teks>Pelenturan</teks></d>
+        <e><teks>Pemantulan</teks></e>
+        <kunci>c</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Pada malam hari bunyi petir terdengar lebih keras daripada siang hari karena pembiasaan bunyi pada malam hari mendekati garis normal. Pernyataan tersebut benar karena ....</teks>
+        </isi>
+        <a><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></a>
+        <b><teks>pada malam hari udara lapisan atas lebih digin dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></b>
+        <c><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir menjauhi garis normal.</teks></c>
+        <d><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih besar dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></d>
+        <e><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih besar dibanding lapisan atas. dan pembiasan bunyi petir menjauhi garis normal.</teks></e>
+        <kunci>a</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Pernyataan-pernyataan berikut ini berkaitan dengan bunyi, sifat-sifat bunyi dan pemanfaatan bunyi:
+                1)	termasuk gelombang elektromagnetik
+                2)	termasuk gelombang transversal
+                3)	termasuk gelombang longitudinal
+                4)	dapat dipantulkan
+                5)	dapat dipolarisasikan
+                6)	dapat dibiaskan
+                7)	dapat merambat di ruang hampa udara
+                8)	dapat merambat pada zat padat
+                9)	kelajuan bunyi diudara lebih besar dari kelajuan bunyi di dalam air
+                10)	digunakan duntuk penyiaran benih atau biji
+                11)	gajah dapat mendengar bunyi yang frekuensinya di bawah 20 Hz
+            </teks>
+            <teks>Pernyataan yang sesuai mengenai sifat bunyi adalah</teks>
+        </isi>
+        <a><teks>1, 2, 3, 5</teks></a>
+        <b><teks>3, 4, 6, 8</teks></b>
+        <c><teks>6, 7, 10, 11</teks></c>
+        <d><teks>1, 5, 9, 11</teks></d>
+        <e><teks>2, 7, 10, 11</teks></e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Rani berteriak dengan suara keras di hadapan tebing yang tinggi. Beberapa detik kemudian terdengar gema yang merupakan bunyi pantul suaranya. Sekiranya Rani mencatat selang waktu antara gema dan teriakannya, dan mengetahui cepat rambat bunyi di udara saat itu, maka Rani dapat memanfaatkan bunyi pantul itu untuk mengetahui....</teks>
+        </isi>
+        <a>
+            <teks>Ketinggian tebing dari permukaan laut</teks>
+        </a>
+        <b>
+            <teks>jarak tebing dari tempat Rani berteriak</teks>
+        </b>
+        <c>
+            <teks>luas dinding tebing yang dituju Rani</teks>
+        </c>
+        <d>
+            <teks>kelembaban udara di sekitar tebing</teks>
+        </d>
+        <e>
+            <teks>kecepatan angin yang mengarah ke Rani</teks>
+        </e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Ketika anda sedang berada di kamar, anda mendengar Lala berteriak memanggil dari kamar mandi yang berada di sebelah kamar untuk diambilkan handuk. Anda segera beranjak dari kamar dan mengambilkan handuk untuk Lala. Peristiwa tersebut menunjukkan bahwa bunyi dapat.....</teks>
+        </isi>
+        <a>
+            <teks>terjadi layangan karena teriakan yang besar</teks>
+        </a>
+        <b>
+            <teks>dipantulkan oleh dinding kamar</teks>
+        </b>
+        <c>
+            <teks>diredam oleh dinding kamar</teks>
+        </c>
+        <d>
+            <teks>dilenturkan ketika melalui celah-celah sempit</teks>
+        </d>
+        <e>
+            <teks>terjadi layangan karena celah-celahnya kecil</teks>
+        </e>
+        <kunci>d</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Sebuah garputala digetarkan di atas tabung yang panjang kolom udaranya adalah L seperti pada gambar di bawah ini.</teks>
+            <gambar>t3</gambar>
+            <teks>Tinggi air di dalam tabung diubah dengan mengurangi air sedikit demi sedikit. Ketika panjang kolom udara adalah Ln terjadi resonansi ke-n, ternyata perut gelombang tidak tepat terjadi di ujung tabung, tetapi terjadi pada jark ΔL di atas ujung tabung. Jika laju gelombang bunyi adalah v, frekuensi gelombang yang terjadi adalah….</teks>
+        </isi>
+        <a>
+            <gambar>t4</gambar>
+        </a>
+        <b>
+            <gambar>t5</gambar>
+        </b>
+        <c>
+            <gambar>t6</gambar>
+        </c>
+        <d>
+            <gambar>t7</gambar>
+        </d>
+        <e>
+            <gambar>t8</gambar>
+        </e>
+        <kunci>d</kunci>
+    </soal>13
+    <soal>
+        <isi>
+            <teks>Seorang penonton lomba balap mobil mendengar deru mobil yang berbeda, ketika mobil mendekat dan menjauh. Rata-rata mobil balap mengeluarkan bunyi dengan frekuensi 800 Hz. Jika kecepatan bunyi di udara 340 m/s dan kecepatan mobil 20 m/s, maka pernyataan yang benar adalah….</teks>
+        </isi>
+        <a>
+            <teks>Frekuensi yang didengar saat mobil mendekat lebih kecil dari frekuensi yang dikeluarkan mobil.</teks>
+        </a>
+        <b>
+            <teks>Frekuensi yang didengar saat mobil mendekat sama dengan frekuensi yang dikeluarkan mobil.</teks>
+        </b>
+        <c>
+            <teks>Frekuensi yang didengar saat mobil mendekat lebih besar dari frekuensi yang dikeluarkan mobil</teks>
+        </c>
+        <d>
+            <teks>Frekuensi yang didengar saat mobil menjauh lebih besar dari frekuensi yang dikeluarkan mobil.</teks>
+        </d>
+        <e>
+            <teks>Frekuensi yang didengar saat mobil menjauhi sama dengan frekuensi yang dikeluarkan mobil.</teks>
+        </e>
+        <kunci>c</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Sebuah mobil ambulan dan seorang anak bergerak saling menjauhi. Mobil ambulan membunyikan sirine berfrekuensi fs dan bergerak dengan kecepatan vs, sedangkan anak bergerak dengan kecepatan vp. Jika cepat rambat bunyi v dan bunyi sirine didengar oleh anak dengan frekuensi yang didengar anak fp berdasarkan asas doppler adalah....</teks>
+        </isi>
+        <a>
+            <gambar>t8</gambar>
+        </a>
+        <b>
+            <gambar>t9</gambar>
+        </b>
+        <c>
+            <gambar>t10</gambar>
+        </c>
+        <d>
+            <gambar>t11</gambar>
+        </d>
+        <e>
+            <gambar>t12</gambar>
+        </e>
+        <kunci>e</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Benda A adalah sumber bunyi yang mengeluarkan nada dengan frekuensi P. B adalah pendengar. Saat A dan B diam di tempatnya masing-masing, B mendengar nada itu dengan frekuensi Q. Kemudian B bergerak mendekati A sehingga nada yang didengarnya berfrekuensi R. Setelah melewati A, nada yang didengar B berfrekuensi S. Hubungan frekuensi P, Q, R dan S dinyatakan sebagai …</teks>
+        </isi>
+        <a><teks>P = Q = R = S</teks></a>
+        <b><teks>Q = P, R > P, S > P</teks></b>
+        <c><teks>Q = P, R > P, S &lt; P</teks></c>
+        <d><teks>Q = P, R &lt; P, S > P</teks></d>
+        <e><teks>Q &lt; P, R &lt; P, S &lt; P</teks></e>
+        <kunci>c</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Sebuah lokomotif mendekati stasiun dengan kecepatan 40 m/s sambil mengeluarkan bunyi peluit yang berfrekuensinya 2100 Hz. Kecepatan bunyi di udara saat itu 320 m/s. Frekuensi yang didengar oleh seseorang di stasiun adalah ….</teks>
+        </isi>
+        <a>
+            <teks>1918 Hz</teks>
+        </a>
+        <b>
+            <teks>1933 Hz</teks>
+        </b>
+        <c>
+            <teks>2100 Hz</teks>
+        </c>
+        <d>
+            <teks>2281 Hz</teks>
+        </d>
+        <e>
+            <teks>2400 Hz</teks>
+        </e>
+        <kunci>e</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Jika sumber bunyi bergerak dengan kecepatan v mendekati pendengar yang diam, dibanding dengan sumber bunyi yang diam dan pendengar yang mendekati sumber bunyi dengan kecepatan yang sama, maka terdengar bunyi....</teks>
+        </isi>
+        <a>
+            <teks>yang sama tingginya</teks>
+        </a>
+        <b>
+            <teks>yang pertama lebih tinggi dari yang kedua</teks>
+        </b>
+        <c>
+            <teks>yang pertama lebih rendah dari yang kedua</teks>
+        </c>
+        <d>
+            <teks>yang pertama makin kereas, yang kedua makin lemah</teks>
+        </d>
+        <e>
+            <teks>yang pertama makin lemah dan yang kedua makin keras</teks>
+        </e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Perhatikan tabel berikut:</teks>
+            <gambar>t14</gambar>
+        </isi>
+        <a>
+            <teks>1,2 dan 3</teks>
+        </a>
+        <b>
+            <teks>1,3 dan 5</teks>
+        </b>
+        <c>
+            <teks>2,3 dan 4</teks>
+        </c>
+        <d>
+            <teks>2,4 dan 5</teks>
+        </d>
+        <e>
+            <teks>3,4 dan 5</teks>
+        </e>
+        <kunci>d</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>
+                Seorang pengamat berada pada sejauh R dari sumber bunyi. Hubungan kecepatan pengamat bergerak terhadap frekuensi bunyi yang terdengar oleh pengamat ditunjukkan oleh grafik berikut
+            </teks>
+            <gambar>t15</gambar>
+        </isi>
+        <a>
+            <teks>pengamat bergerak menjauh dari sumber bunyi</teks>
+        </a>
+        <b>
+            <teks>pengamat bergerak mendekat ke sumber bunyi</teks>
+        </b>
+        <c>
+            <teks>sumber bunyi bergerak mendekat ke pengamat</teks>
+        </c>
+        <d>
+            <teks>sumber bunyi bergerak menjauh ke pengamat</teks>
+        </d>
+        <e>
+            <teks>sumber dan pengamat diam</teks>
+        </e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Grafik kecepatan pendengar terhadap frekuensi pada saat sumber bunyi dalam keadaan diam yang benar adalah.... (Biru: Pendengar Mendekat, Merah: Pendengar Menjauh)</teks>
+        </isi>
+        <a>
+            <gambar>t16</gambar>
+        </a>
+        <b>
+            <gambar>t17</gambar>
+        </b>
+        <c><gambar>t18</gambar></c>
+        <d><gambar>t19</gambar></d>
+        <e><gambar>t20</gambar></e>
+        <kunci>a</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Dawai gitar yang memiliki panjang 1 m dan massanya 10 gram menghasilkan bunyi nada atas kesatu pada frekuensi 400 Hz. Tegangan pada dawai gitar tersebut adalah….</teks>
+        </isi>
+        <a>
+            <teks>176,89 N</teks>
+        </a>
+        <b>
+            <teks>350,72 N</teks>
+        </b>
+        <c>
+            <teks>879,56 N</teks>
+        </c>
+        <d>
+            <teks>902,26 N</teks>
+        </d>
+        <e>
+            <teks>1600,00 N</teks>
+        </e>
+        <kunci>e</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Pada frekuensi nada dasar pertama pipa organa terbuka pola gelombang yang terbentuk adalah....</teks>
+        </isi>
+        <a>
+            <teks>6 perut dan 3 simpul</teks>
+        </a>
+        <b>
+            <teks>3 perut dan 2 simpul</teks>
+        </b>
+        <c>
+            <teks>3 perut dan 3 simpul</teks>
+        </c>
+        <d>
+            <teks>1 perut dan 4 simpul</teks>
+        </d>
+        <e>
+            <teks>1 perut dan 2 simpul</teks>
+        </e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Sebuah pipa yang salah satu dari ujungnya tertutup dan ujung yang lain terbuka memiliki panjang 68 cm. Jika cepat rambat bunyi di udara adalah 340 m/s, maka besar tiga frekuensi harmonic pertama adalah….</teks>
+        </isi>
+        <a>
+            <teks>250 Hz, 500 Hz, 750 Hz</teks>
+        </a>
+        <b>
+            <teks>125 Hz, 250 Hz, 375 Hz</teks>
+        </b>
+        <c>
+            <teks>250 Hz, 750 Hz, 1250 Hz</teks>
+        </c>
+        <d>
+            <teks>125 Hz, 375 Hz, 625 Hz</teks>
+        </d>
+        <e>
+            <teks>125 Hz, 500 Hz, 750 Hz</teks>
+        </e>
+        <kunci>d</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Sebuah sumber mengirim gelombang bunyi dengan daya keluaran 80 W. Besar intensitas bunyi pada jarak 3 m dari sumber adalah....</teks>
+        </isi>
+        <a>
+            <teks>0,707 W/m^2</teks>
+        </a>
+        <b>
+            <teks>0,783 W/m^2</teks>
+        </b>
+        <c>
+            <teks>
+                0,806 W/m^2
+            </teks>
+        </c>
+        <d>
+            <teks>
+            0,854 W/m^2
+            </teks>
+        </d>
+        <e>
+            <teks>
+                0,891 W/m^2
+            </teks>
+        </e>
+        <kunci>a
+        </kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>
+                Titik P berjarak 2 meter dari sumber bunyi dan intensitas gelombang di P adalah 900 watt/m2. Hitunglah intensitas gelombang di titik Q yang berjarak 6 meter dari sumber bunyi....
+            </teks>
+        </isi>
+        <a>
+            <teks>100 W.m^-2</teks>
+        </a>
+        <b>
+            <teks>200 W.m^-2</teks>
+        </b>
+        <c>
+            <teks>300 W.m^-2</teks>
+        </c>
+        <d>
+            <teks>500 W.m^-2</teks>
+        </d>
+        <e>
+            <teks>900 W.m^-2</teks>
+        </e>
+        <kunci>a</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Intensitas bunyi titik P yang berjarak 3 m dari sumber bunyi adalah 10^-4 W/m. Titik R berjarak 300 m dari sumber bunyi. Jika intensitas ambang Io= 10^-12W/m^2, perbandingan taraf  intensitas di titik P dan R adalah....</teks>
+        </isi>
+        <a>
+            <teks>1 : 2</teks>
+        </a>
+        <b>
+            <teks>2 : 1</teks>
+        </b>
+        <c>
+            <teks>3 : 4</teks>
+        </c>
+        <d>
+            <teks>2 : 4</teks>
+        </d>
+        <e>
+            <teks>4 : 3</teks>
+        </e>
+        <kunci>b</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Grafik yang menunjukan hubungan antara Intensitas dan Taraf Intensitas adalah...</teks>
+        </isi>
+        <a>
+           <gambar>t21</gambar>
+        </a>
+        <b>
+            <gambar>t22</gambar>
+        </b>
+        <c>
+            <gambar>t23</gambar>
+        </c>
+        <d>
+            <gambar>t24</gambar>
+        </d>
+        <e>
+            <gambar>t25</gambar>
+        </e>
+        <kunci>a</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Pernyataan yang paling tepat untuk menunjukan hubungan antara intensitas dan jarak adalah...</teks>
+        </isi>
+        <a>
+            <teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara linear.</teks>
+        </a>
+        <b>
+            <teks>Intensitas memiliki hubungan yang berbanding lurus dengan jarak secara linear.</teks>
+        </b>
+        <c>
+            <teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara kuadratik.</teks>
+        </c>
+        <d>
+            <teks>Intensitas memiliki hubungan yang berbanding lurus dengan jarak secara kuadratik.</teks>
+        </d>
+        <e>
+            <teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara logaritmik</teks>
+        </e>
+        <kunci>c</kunci>
+    </soal>
+    <soal>
+        <isi>
+            <teks>Sebuah mesjid sedang direnovasi untuk meningkatkan kualitas pengeras suara. Karena anda merupakan seorang yang belajar fisika, pemasangan toa yang paling efektif agar suara lebih terdengar nyaring dan jauh adalah...</teks>
+        </isi>
+        <a>
+            <teks>Dipasang satu titik saja dengan mengarah pada semua arah mata angin</teks>
+        </a>
+        <b>
+            <teks>Dipasang satu titik saja dengan mengarah pada satu mata angin</teks>
+        </b>
+        <c>
+            <teks>Dipasang di berbagai titik dengan mengarah pada semua arah mata angin</teks>
+        </c>
+        <d>
+            <teks>Dipasang di berbagai titik dengan mengarah pada satu mata angin</teks>
+        </d>
+        <e>
+            <teks>Dipasang di berbagai titik dengan arah saling berhadap hadapan</teks>
+        </e>
+        <kunci>a</kunci>
+    </soal>
+</latihan>

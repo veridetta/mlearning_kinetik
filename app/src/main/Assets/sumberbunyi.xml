@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<materi>
+    <judul urut="0">SUMBER BUNYI</judul>
+    <teks urut="1">Sumber bunyi adalah sesuatu yang bergetar. Untuk meyakinkan hal ini tempelkan jari pada tenggorokan selama kalian berbicara, maka terasalah suatu getaran. Bunyi termasuk gelombang longitudinal. Alat-alat musik seperti gitar, biola, harmonika, seruling termasuk sumber bunyi. Pada dasarnya sumber getaran semua alat-alat musik itu adalah dawai dan kolom udara. Pada bab ini kita akan mempelajari nada-nada yang dihasilkan oleh sumber bunyi tersebut.</teks>
+    <subjudul>1.	Sumber Bunyi Dawai</subjudul>
+    <teks>Sebuah gitar merupakan suatu alat musik yang menggunakan dawai/senar sebagai sumber bunyinya. </teks>
+    <teks>Getaran pada senar gitar yang dipetik akan menghasilkan gelombang stasioner pada ujung terikat. Satu senar pada gitar akan menghasilkan berbagai frekuensi resonansi dari pola gelombang paling sederhana sampai majemuk. Nada yang dihasilkan dengan pola paling sederhana disebut nada dasar, kemudian secara berturut-turut pola gelombang yang terbentuk menghasilkan nada atas (Gambar 41). Gambar di samping menggambarkan pola-pola yang terjadi pada sebuah dawai yang kedua ujungnya terikat jika dipetik akan bergetar menghasilkan nada-nada sebagai berikut penjelasannya.</teks>
+    <gambar>sumberbunyi</gambar>
+    <ket>Gambar 41. Pola gelombang nada-nada yang dihasilkan petikan dawai
+        Sumber: bse Fisika untuk SMA/MA
+    </ket>
+    <subjudul>a.	Nada Dasar</subjudul>
+    <teks>Jika sepanjang dawai terbentuk ½ gelombang, maka nada yang dihasilkan disebut nada dasar. ℓ atau λ0 = 2ℓ bila frekuensi nada dasar dilambangkan f0, maka besarnya dituliskan dalam persamaan 16.</teks>
+    <gambar>h1</gambar>
+    <subjudul>b.	Nada Atas 1</subjudul>
+    <teks>Jika sepanjang dawai terbentuk 1 gelombang, maka nada yang dihasilkan disebut nada atas 1. ℓ = λ1 atau λ1 = ℓ bila frekuensi nada atas 1 dilambangkan f1 maka besarnya dinyatakan dalam persamaan 17.</teks>
+    <gambar>h2</gambar>
+    <subjudul>c.	Nada Atas 2</subjudul>
+    <gambar>h3</gambar>
+    <teks>Jika sepanjang dawai terbentuk 1,5 gelombang, maka nada yang dihasilkan disebut nada atas 2. ℓ = 3/2 λ2 atau λ2 = 2/3 ℓ bila frekuensi nada atas 2 dilambangkan f2 maka besarnya dinyatakan dalam persamaan 18.</teks>
+    <subjudul>d.	Nada Atas 3</subjudul>
+    <teks>Jika sepanjang dawai terbentuk 2 gelombang, maka nada yang dihasilkan disebut nada atas 3. ℓ = 2 λ3 atau λ3 = ½ ℓ bila frekuensi nada atas 3 dilambangkan f3 maka besarnya ditunjukkan dalam persamaan 19</teks>
+    <gambar>h4</gambar>
+    <teks>Berdasarkan data tersebut dapat kita simpulkan bahwa perbandingan frekuensi nada-nada yang dihasilkan oleh sumber bunyi berupa dawai dengan frekuensi nada dasarnya merupakan perbandingan bilangan bulat seperti dalam persamaan 20.</teks>
+    <gambar>h5</gambar>
+    <gambar>h6</gambar>
+    <coba>
+        <judul>Aspek Kognitif: Menentukan frekuensi nada yang dihasilkan dawai dalam fenomena sehari-hari</judul>
+        <soal>1.	Sebuah kawat yang panjangnya 1 m, massanya 100 gr diberi tegangan 1.600 N. Kemudian digetarkan sehingga pada kawat tersebut membentuk pola 2 gelombang. Berapa frekuensi nada yang dihasilkan oleh kawat tersebut?
+            2.	Sebuah kawat yang panjangnya 180 cm, kedua ujungnya diikat kuat-kuat. Cepat rambat gelombang pada kawat tersebut adalah 330 m/s. Bila kawat tersebut dipetik sehingga menghasilkan nada atas ke 2, hitunglah frekuensi nada yang dihasilkan kawat tersebut?
+        </soal>
+    </coba>
+    <subjudul>2.	Sumber Bunyi Kolom Udara</subjudul>
+    <teks>Seruling merupakan contoh sumber bunyi berupa kolom udara (Video 10). Perhatikan video berikut ini</teks>
+    <video>hv1</video>
+    <ket>Video 10. Seruling
+        Sumber: https://www.youtube.com/watch?v=08vL4A2Wsew
+    </ket>
+    <coba>
+        <judul>Aspek Kognitif: Menjelaskan sumber bunyi pada kolom udara
+            Aspek K.Komunikasi: Menuliskan ide/pendapat yang relevan degan konten.
+        </judul>
+        <soal>Tahukah anda, mengapa sumber bunyi pada kolom udara contohnya seperti seruling dapat terdengar bunyinya sampai ke telinga? Gunakan berbagai jenis media untuk mencari informasi (tuliskan sumber informasi yang digunakan)!</soal>
+    </coba>
+    <teks>Gelombang naik turun udara bergetar melalui lubang seruling menghasilkan suara yang merdu. Sumber bunyi yang menggunakan kolom udara sebagai sumber getarnya disebut juga pipa organa. Pipa organa dibedakan menjadi dua, yaitu pipa organa terbuka dan pipa organa tertutup.</teks>
+    <subjudul>a.	Pipa Organa Terbuka</subjudul>
+    <teks>Sebuah pipa organa jika ditiup juga akan menghasilkan frekuensi nada dengan pola-pola gelombang yang dapat dilihat pada Gambar 42 di bawah ini.</teks>
+    <gambar>h7</gambar>
+    <ket>Gambar 42. Pola gelombang nada-nada pada pipa organa terbuka
+        Sumber: bse Fisika untuk SMA dan MA.
+    </ket>
+    <subjudul>1)	Nada dasar</subjudul>
+    <teks>Jika sepanjang pipa organa terbentuk ½ gelombang, maka nada yang dihasilkan disebut nada dasar. ℓ = ½ λ0 atau λ0 = 2ℓ bila frekuensi nada dasar dilambangkan f0 maka besarnya :</teks>
+    <gambar>h8</gambar>
+    <subjudul>2)	Nada atas 1</subjudul>
+    <teks>Jika sepanjang pipa organa terbentuk 1 gelombang, maka nada yang dihasilkan disebut nada atas 1. ℓ = λ1 atau λ1 = ℓ bila frekuensi nada atas 1 dilambangkan f0 maka besarnya:</teks>
+    <gambar>h9</gambar>
+    <subjudul>3)	Nada atas 2</subjudul>
+    <teks>Jika sepanjang pipa organa terbentuk 3/2 gelombang, maka nada yang dihasilkan disebut nada atas 2. λ = 3/2 ℓ2 atau ℓ2 = 2/3 λ bila frekuensi nada atas 2 dilambangkan f2 maka besarnya:</teks>
+    <gambar>h10</gambar>
+    <subjudul>4)	Nada atas 3</subjudul>
+    <teks>Jika sepanjang dawai terbentuk 2 gelombang, maka nada yang dihasilkan disebut nada atas 3. ℓ = 2λ3 atau λ3 = l/2 ℓ bila frekuensi nada atas 3 dilambangkan f3 maka besarnya:</teks>
+    <gambar>h11</gambar>
+    <teks>Berdasarkan data tersebut dapat dikatakan bahwa perbandingan frekuensi nada-nada yang dihasilkan oleh pipa organa terbuka dengan frekuensi nada dasarnya merupakan perbandingan bilangan bulat.</teks>
+    <gambar>h12</gambar>
+    <subjudul>b.	Pipa Organa Tertutup</subjudul>
+    <teks>Sebuah pipa organa tertutup jika ditiup juga akan menghasilkan frekuensi nada dengan pola-pola gelombang yang dapat dilihat pada Gambar 43 dibawah ini.</teks>
+    <gambar>h13</gambar>
+    <ket>Gambar 43. Pola gelombang nada-nada pada pipa organa tertutup
+        Sumber: bse Fisika untuk SMA dan MA Kelas XII
+    </ket>
+    <subjudul>1)	Nada dasar</subjudul>
+    <teks>Jika sepanjang pipa organa terbentuk 1/4 gelombang, maka nada yang dihasilkan disebut nada dasar. ℓ = ¼ λ0 atau λ0 = 4ℓ bila frekuensi nada dasar dilambangkan f0 maka besarnya :</teks>
+    <gambar>h14</gambar>
+    <subjudul>2)	Nada atas 1</subjudul>
+    <teks>Jika sepanjang pipa organa terbentuk ¾ gelombang, maka nada yang dihasilkan disebut nada atas 1. ℓ = ¾ λ1 atau λ1= 4/3 ℓ bila frekuensi nada dasar dilambangkan f1 maka besarnya :</teks>
+    <gambar>h15</gambar>
+    <subjudul>3)	Nada atas 2</subjudul>
+    <teks>Jika sepanjang pipa organa terbentuk 5/4 gelombang, maka nada yang dihasilkan disebut nada atas 2. ℓ = 5/4 λ2 atau λ = 4/5 ℓ bila frekuensi nada dasar dilambangkan f2 maka besarnya:</teks>
+    <gambar>h16</gambar>
+    <subjudul>4)	Nada atas 3</subjudul>
+    <teks>Jika sepanjang pipa organa terbentuk 7/4 gelombang, maka nada yang dihasilkan disebut nada atas 3. ℓ = 7/4 λ3 atau λ3 = 4/7ℓ bila frekuensi nada atas 3 dilambangkan f3 maka besarnya:</teks>
+    <gambar>h17</gambar>
+    <teks>Dari data tersebut dapat dikatakan bahwa perbandingan frekuensi nada-nada yang dihasilkan oleh pipa organa tertutup dengan frekuensi nada dasarnya merupakan perbandingan bilangan ganjil.</teks>
+    <gambar>h18</gambar>
+    <gambar>h19</gambar>
+    <coba>
+        <judul>Aspek Kognitif: Menghitung frekuensi bunyi pada pada pipa organa tertutup</judul>
+        <teks>Jika laju bunyi 200 m/s, berapakah frekuensi dan panjang gelombang yang mungkin untuk gelombang bunyi berdiri pada pipa organa tertutup sepanjang 2 m?</teks>
+    </coba>
+</materi>
