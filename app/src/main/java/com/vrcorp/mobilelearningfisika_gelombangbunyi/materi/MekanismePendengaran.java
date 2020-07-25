@@ -110,7 +110,7 @@ public class MekanismePendengaran extends AppCompatActivity {
         });
         Log.d("MATERI", "onCreate: "+materi);
         try {
-            InputStream is = getAssets().open(materi+".xml");
+            final InputStream is = getAssets().open(materi+".xml");
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(is);
@@ -151,11 +151,55 @@ public class MekanismePendengaran extends AppCompatActivity {
                     tv.setPadding(7, 3, 0, 3);
                     konten.addView(tv);
                 };
+                if(anak.getNodeName().equals("url")) {
+                    LinearLayout linearLayout =new LinearLayout(this);
+                    linearLayout.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+                    linearLayout.setPadding(3,3,3,3);
+                    konten.addView(linearLayout);
+                    // add TextView
+                    final String isi = anak.getTextContent();
+                    TextView tv = new TextView(this);
+                    tv.setText("Buka di Web Browser");
+                    //tv.setTypeface(null, Typeface.BOLD);
+                    tv.setId(nomor);
+                    LinearLayout.LayoutParams ly = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
+                            LinearLayout.LayoutParams.WRAP_CONTENT);
+                    ly.setMargins(10,3,2,3);
+                    tv.setLayoutParams(ly);
+                    //tv.setTextSize(16);
+                    tv.setTextColor(getResources().getColor(R.color.blue_400));
+                    tv.setTextSize(TypedValue.COMPLEX_UNIT_PX,
+                            getResources().getDimension(R.dimen._12sdp));
+                    tv.setPadding(4, 3, 0, 3);
+                    linearLayout.addView(tv);
+                    tv.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View v) {
+                            Uri uri = Uri.parse(isi);
+                            Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                            startActivity(intent);
+                        }
+                    });
+                };
                 if(anak.getNodeName().equals("teks")){
                     // add TextView
                     JustifiedTextView tv = new JustifiedTextView(this);
                     tv.setText(anak.getTextContent());
                     tv.setId(nomor);
+                    tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
+                            LinearLayout.LayoutParams.WRAP_CONTENT));
+                    //tv.setTextSize(16);
+                    tv.setTextSize(TypedValue.COMPLEX_UNIT_PX,
+                            getResources().getDimension(R.dimen._13sdp));
+                    tv.setPadding(7, 3, 5, 3);
+                    konten.addView(tv);
+                }
+                if(anak.getNodeName().equals("pustaka")){
+                    // add TextView
+                    TextView tv = new TextView(this);
+                    tv.setText(anak.getTextContent());
+                    tv.setId(nomor);
+                    tv.setMinLines(1);
                     tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
                             LinearLayout.LayoutParams.WRAP_CONTENT));
                     //tv.setTextSize(16);
@@ -277,7 +321,7 @@ public class MekanismePendengaran extends AppCompatActivity {
                     tv2.setPadding(10, 3, 0, 3);
                     linearLayout2.addView(tv2);
                     for(int u=0;u<anak2.getLength();u++){
-                        Node anaknya = anak2.item(u);
+                        final Node anaknya = anak2.item(u);
                         if(anaknya.getNodeName().equals("judul")){
                             LinearLayout linearLayout =new LinearLayout(this);
                             linearLayout.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
@@ -600,8 +644,8 @@ public class MekanismePendengaran extends AppCompatActivity {
     }
     protected void sendEmail(String subject, String isi) {
         Log.i("Send email", "");
-        String[] TO = {"veridetta@gmail.com"};
-        String[] CC = {"xyz@gmail.com"};
+        String[] TO = {"penelitian.daring2020@gmail.com"};
+        String[] CC = {"inc.vr.corp@gmail.com"};
         Intent emailIntent = new Intent(Intent.ACTION_SEND);
         emailIntent.setData(Uri.parse("mailto:"));
         emailIntent.setType("image/*");
