@@ -1,10 +1,62 @@
 <resources>
-    <string name="app_name">Mobile Learning Fisika - Gelombang Bunyi</string>
-    <string name="judul">Gelombang Bunyi</string>
-    <string name="sub_judul">Melatih Kognitif dan Keterampilan Komunikasi Peserta Didik</string>
-    <string name="tentang">Mobile Learning (M-Learning) Fisika ini membahas materi tentang "Gelombang Bunyi".
-        Aplikasi ini berisi materi pembelajaran, latihan soal dan tes. Melalui kegiatan pembelajaran dengan menggunakan bahan ajar mobile learning berbasis multirepresentasi, peserta didik  diharapkan
-        mampu mengoptimalkan kemampuan kognitif dan keterampilan komunikasi dalam menerapkan prinsip Gelombang Bunyi dalam kehidupan sehari-hari.</string>
-    <string name="penyusun">Rani Nurliani\nMagister Pendidikan Fisika\nUniversitas Pendidikan Indonesia
+    <string name="app_name">Mobile Learning - Teori Kinetik Gas</string>
+    <string name="judul">Teori Kinetik Gas</string>
+    <string name="sub_judul">Melatih Kognitif dan Keterampilan Pemecahan Masalah Peserta Didik</string>
+    <string name="tentang">Mobile Learning (M-Learning) Fisika ini membahas materi tentang “Teori Kinetik Gas”. Aplikasi ini berisi materi pembelajaran, latihan soal dan evaluasi. Melalui kegiatan pembelajaran dengan menggunakan bahan ajar mobile learning berbasis multirepresentasi, peserta didik diharapkan mampu mengoptimalkan kemampuan kognitif dan keterampilan pemecahan masalah dalam menerapkan prinsip Teori Kinetik Gas dalam kehidupan sehari-hari.</string>
+    <string name="penyusun">Rida Febriyanti Sholihah\nMagister Pendidikan Fisika\nUniversitas Pendidikan Indonesia
 </string>
+    <string name="pemecahan">
+        1.	Mengidentifikasi masalah berdasarkan konsep dasar (deep future) \n
+2.	Membuat daftar besaran yang diketahui \n
+3.	Menentukan besaran yang ditanyakan \n
+4.	Membuat  diagram benda bebas/ sketsa yang menggambarkan permasalahan \n
+5.	Menentukan persamaan yang tepat untuk pemecahan masalah \n
+6.	Mensubstitusi nilai besaran yang diketahui ke persamaan \n
+7.	Melakukan perhitungan dengan menggunakan persamaan yang dipilih \n
+8.	Mengevaluasi kesesuaian dengan konsep \n
+
+    </string>
+    <string name="indikator">3.6.1. Menjelaskan gas melalui berbagai fenomena ilmiah. \n
+    3.6.2. Menjelaskan sifat makroskopis dan mikroskopis gas. \n
+3.6.3. Membedakan karakteristik gas nyata dan gas ideal. \n
+3.6.4. Menjelaskan pemanfatan gas ideal diberbagai masalah dalam teknologi. \n
+3.6.5. Membedakan berbagai jenis sistem melalui fenomena ilmiah. \n
+3.6.6. Mengindentifikasi besaran makroskopis gas dalam ruang tertutup. \n
+3.6.7. Menerangkan implikasi manfaat dari besaran makroskopis gas. \n
+3.6.9. Menjelaskan hukum boyle secara ilmiah. \n
+3.6.10. Menyelidiki hubungan V-P (hukum Boyle) baik secara kualitatif maupun kuantitatif. \n
+3.6.11. Menginterpretasi hubungan V-P dalam berbagai bentuk representasi. \n
+3.6.12. Menerangkan hukum keadaan molekul gas saat perubahan V-P (hukum Boyle). \n
+3.6.13. Menjelaskan pemanfaatan Hukum Boyle untuk menyelesaikan berbagai masalah dan teknologi. \n
+3.6.14. Menjelaskan hukum Gay-Lussac secara ilmiah. \n
+3.6.15. Menyelidiki hubungan T-P (hukum Gay-Lussac) secara kualitatif dan kuantitatf. \n
+3.6.16. Menginterpretasi hubungan T-P dalam berbagai representasi. \n
+3.6.17. Menguraikan keadaan molekul gas saat perubahan T-P (Hukum Gay-Lussac). \n
+3.6.18. Menerangkan pemanfaatan Hukum Gay- Lussac untuk menyelesaikan masalah dan teknologi. \n
+3.6.20. Menguraikan fenomena Hukum Charles. \n
+3.6.21. Menyelidiki hubungan T-V (hukum Charles) secara kualitatif dan kuantitaif. \n
+3.6.22. Menginterpretasi hubungan T-V dalam berbagai bentuk representasi. \n
+3.6.23. Menguraikan keadaan molekul gas saat perubahan T-V (hukum Charles). \n
+3.6.24. Menjelaskan pemanfaatan hukum Charles untuk menyelesaikan masalah dan teknologi. \n
+3.6.25. Memformulasikan Hukum Boyle-Gay Lussac dengan berbagai multireresentasi. \n
+3.6.26. Menerangkan pemanfaatan Boyle- Gay Lussac untuk menyelesaikan masalah. \n
+3.6.27. Menerangkan fenomena hukum Avogadro. \n
+3.6.28 Menyelidiki hubungan V-n (hukum Avogadro) secara kualitatif. \n
+3.6.29. Menginterpretasi hubungan V-n (hukum Avogadro) dalam berbagai bentuk representasi. \n
+3.6.30. Menguraikan keadaan molekul gas saat perubahan V-n (hukum Avogadro). \n
+3.6.31. Menjabarkan pemanfaatan Hukum Avogadro untuk menyelesaikan berbagai masalah dan teknologi. \n
+3.6.32. Memformulasikan persamaan umum gas ideal dari Hukum Boyle-Gay Lussac dan Hukum Avogadro. \n
+3.6.33. Mengilustrasikan syarat berlakunya persamaan umum gas ideal \n
+3.6.34. Menggunakan Hukum Gas Ideal untuk menyelesaikan berbagai masalah dan teknologi. \n
+3.6.35. Menjelaskan asumsi-asumsi mikroskopis molekul gas ideal berbantuan berbagai representasi. \n
+3.6.36. Menjabarkan distribusi kecepatan molekul gas dalam sistem tertutup. \n
+3.6.37. Menginterpretasi hubungan tekanan makroskopis dan tekanan mikroskopis molekul gas ideal dalam sistem tertutup. \n
+3.6.38 Mengkonsepkan kecepatan efektif (RMS) gas ideal secara teoritis dengan teorema ekipatisi energi dan persamaan umum gas ideal. \n
+3.6.39 Menerangkan perubahan energi dalam gas ideal dengan hukum I termodinamika. \n
+3.6.40 Mengaitkan titik kritis, suhu dan tekanan pada perubahan wujud zat gas. \n
+3.6.41 Menjabarkan persamaan Vander Waals dalam fenomena perubahan wujud zat. \n
+4.6.1 Mempresentasikan hasil eksplorasi menerapkan persamaan keadaan gas \n
+4.6.2	Mempresentasikan hasil eksplorasi hukum Boyle dalam penyelesaian masalah gas di ruang tertutup
+
+    </string>
 </resources>

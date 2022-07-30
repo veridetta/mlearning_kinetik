@@ -1,280 +1,41 @@
 <?xml version="1.0"?>
 <latihan>
     <soal>
-        <isi><teks>Algis sedang berdiri di samping tiang lampu merah. Dari kejauhan terdengar suara sirene ambulans meskipun mobil ambulans belum terlihat. Peristiwa ini menunjukkan bahwa bunyi dapat....</teks></isi>
-        <a><teks>bersuspensi dengan gelombang lain</teks></a>
-        <b><teks>beresonansi dengan udara sekitar</teks></b>
-        <c><teks>dipantulkan oleh benda sekitar</teks></c>
-        <d><teks>bertambah frekuensinya</teks></d>
-        <e><teks>merambat melalui medium udara</teks></e>
-        <kunci>e</kunci>
-        <pembahasan><teks>Salah satu sifat bunyi adalah merambat melalui medium udara. Bunyi dapat terdengar atau sampai ke telinga manusia karena merambat. Pada kasus dalam soal ini, kecepatan bunyi lebih besar dibandingkan kecepatan mobil. Oleh karena itu, bunyi sudah terdengar meskipun mobil belum terlihat</teks></pembahasan>
-    </soal>
-    <soal><isi><teks>Bunyi dengan panjang gelombang 2 m memiliki kecepatan rambat sebesar 340 m/s.  Nilai frekuensi yang dihasilkan sebesar ....Hz dan termasuk dalam kategori....</teks></isi>
-        <a><teks>0,0058, ultrasonik</teks></a>
-        <b><teks>0,0058, infrasonik</teks></b>
-        <c><teks>0,0017, audiosonik</teks></c>
-        <d><teks>170, audiosonik</teks></d>
-        <e><teks>170, infrasonik</teks></e>
-        <kunci>d</kunci>
-        <pembahasan>
-            <teks>Diketahui:
-                λ = 2 m, v = 340 m/s
-                Ditanya:
-                f dan kategori ?
-                Jawab:
-                a.	Mencari frekuensi terlebih dahulu:
-                f = ν / λ
-                = 340 / 2
-                = 170 Hz
-                b.	Bunyi dengan frekuensi antara 20 hingga 20000 Hz tergolong audiosonik
-            </teks>
-        </pembahasan>
+        
+        <teks>Adi ingin menerapkan hukum Boyle untuk menentukan tekanan udara. Adi melakukan percobaan dan mendapatkan data bahwa ketika h = 60 mm, V = 20 cm3 dan ketika h = 160 mm, V2 = 18 cm3. Berapakah mmHg tekanan udara di tempat siswa tersebut?</teks>
+        <teks>Jawablah Pertanyaan di atas dengan menggunakan tahapan penyelesaian pemecahan masalah  menurut Rosengrant berikut:</teks>
+        <gambar>ls99</gambar>
+        
     </soal>
     <soal>
-        <isi>
-            <teks>Pada malam hari bunyi petir terdengar lebih keras daripada siang hari karena pembiasaan bunyi pada malam hari mendekati garis normal. Perrnyataan tersebut benar karena ....</teks>
-        </isi>
-        <a><teks>pada malam hari udara lapisan atas lebih digin dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></a>
-        <b><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></b>
-        <c><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir menjauhi garis normal.</teks></c>
-        <d><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih besar dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></d>
-        <e><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih besar dibanding lapisan atas. dan pembiasan bunyi petir menjauhi garis normal.</teks></e>
-        <kunci>b</kunci>
-        <pembahasan>
-            <teks>
-                Pada saat siang udara dekat tanah lebih panas dibandingkan dengan udara diatasnya. Suara akan bergerak menuju area dengan suhu lebih rendah. Akibatnya bunyi akan dibiaskan menjauhi kita yaitu ke arah langit pada siang hari, sehingga kita mendengar bunyi yang lebih lemah. Sebaliknya pada malam hari udara bawah lebih dingin daripada udara atas. Suara akan bergerak menuju area dengan suhu lebih rendah. Akibatnya pada malam hari bunyi yang merambat dari udara atas (cepat) ke udara bawah (lambat) akan dibiaskan mendekati kita ke arah ke permukaan bumi.
-            </teks>
-        </pembahasan>
+        
+        <teks>Sebuah silinder yang berisi gas ditutup oleh pengisap yang dapat digerakkan naik turun, seperti diperlihatkan pada gambar. Beban balok yang diletakkan di atas pengisap menjaga tekanan tetap dalam silinder. Tinggi h adalah 15 cm ke¬tika suhu 0°C dan bertambah begitu suhunya meningkat. Berapakah h ketika suhunya mencapai 50°C?</teks>
+        <gambar>lsa2</gambar>
+        <teks>Jawablah Pertanyaan di atas dengan menggunakan tahapan penyelesaian pemecahan masalah  menurut Rosengrant berikut:</teks>
+        <gambar>ls99</gambar>
+        
     </soal>
     <soal>
-        <isi>
-            <teks>Pernyataan-pernyataan berikut ini berkaitan dengan bunyi, sifat-sifat bunyi dan pemanfaatan bunyi:
-                1)	termasuk gelombang elektromagnetik
-                2)	termasuk gelombang transversal
-                3)	termasuk gelombang longitudinal
-                4)	dapat dipantulkan
-                5)	dapat dipolarisasikan
-                6)	dapat dibiaskan
-                7)	dapat merambat di ruang hampa udara
-                8)	dapat merambat pada zat padat
-                9)	kelajuan bunyi diudara lebih besar dari kelajuan bunyi di dalam air
-                10)	digunakan duntuk penyiaran benih atau biji
-                11)	gajah dapat mendengar bunyi yang frekuensinya di bawah 20 Hz
-                Pernyataan yang sesuai mengenai sifat bunyi adalah
-            </teks>
-        </isi>
-        <a><teks>1, 2, 3, 5</teks></a>
-        <b><teks>1, 5, 9, 11</teks></b>
-        <c><teks>2, 7, 10, 11</teks></c>
-        <d><teks>3, 4, 6, 8</teks></d>
-        <e><teks>6, 7, 10, 11</teks></e>
-        <kunci>d</kunci>
-        <pembahasan>
-            <teks>Sifat-sifat bunyi:
-                •	Gelombang bunyi mengalami pemantulan
-                •	Gelombang bunyi mengalami pembiasan
-                •	Gelombang bunyi mengalami pelenturan
-                •	Gelombang bunyi mengalami perpaduan
-            </teks>
-        </pembahasan>
+        
+        <teks>Rani mempunyai tabung tertutup U yang berisi sejenis gas ideal. Jika tekanan udara luar 700 mmHg, volume gas 60 cm3 dan suhu 27°C. Berapakah volume gas itu pada keadaan normal (0°C, 760 mmHg)?</teks>
+        <gambar>ls3</gambar>
+        <teks>Jawablah Pertanyaan di atas dengan menggunakan tahapan penyelesaian pemecahan masalah  menurut Rosengrant berikut:</teks>
+        <gambar>ls99</gambar>
+        
     </soal>
     <soal>
-        <isi>
-            <teks>Ketika anda sedang berada di kamar, anda mendengar Lala berteriak memanggil dari kamar mandi yang berada di sebelah kamar untuk diambilkan handuk. Anda segera beranjak dari kamar dan mengambilkan handuk untuk Lala. Peristiwa tersebut menunjukkan bahwa bunyi dapat.....</teks>
-        </isi>
-        <a><teks>dilenturkan ketika melalui celah-celah sempit</teks></a>
-        <b><teks>terjadi layangan karena teriakan yang besar</teks></b>
-        <c><teks>dipantulkan oleh dinding kamar</teks></c>
-        <d><teks>diredam oleh dinding kamar</teks></d>
-        <e><teks>terjadi layangan karena celah-celahnya kecil</teks></e>
-        <kunci>a</kunci>
-        <pembahasan>
-            <teks>Salah satu sifat bunyi adalah difraksi atau pelenturan. Sehingga bunyi dapat merambat melewati suatu dinding dengan celah-celah sempitnya.
-            </teks>
-        </pembahasan>
+        <gambar>ls4</gambar>
+        <teks>Jawablah Pertanyaan di atas dengan menggunakan tahapan penyelesaian pemecahan masalah  menurut Rosengrant berikut:</teks>
+        <gambar>ls99</gambar>
     </soal>
     <soal>
-        <isi>
-            <teks>Anda menonton lomba balap mobil dan mendengar deru mobil yang berbeda ketika mobil mendekat dan menjauh. Rata-rata mobil balap mengeluarkan bunyi dengan frekuensi 800 Hz. Jika kecepatan bunyi di udara 340 m/s dan kecepatan mobil 20 m/s, maka pernyataan yang benar adalah….</teks>
-        </isi>
-        <a><teks>Frekuensi yang didengar saat mobil mendekat lebih kecil dari frekuensi yang dikeluarkan mobil.</teks></a>
-        <b><teks>Frekuensi yang didengar saat mobil mendekat lebih besar dari frekuensi yang dikeluarkan mobil.</teks></b>
-        <c><teks>Frekuensi yang didengar saat mobil mendekat sama dengan frekuensi yang dikeluarkan mobil.</teks></c>
-        <d><teks>Frekuensi yang didengar saat mobil menjauh lebih besar dari frekuensi yang dikeluarkan mobil.</teks></d>
-        <e><teks>Frekuensi yang didengar saat mobil menjauhi sama dengan frekuensi yang dikeluarkan mobil.</teks></e>
-        <kunci>b</kunci>
-        <pembahasan>
-            <teks>Diketahui :
-                fs = 800 Hz
-                v = 340 m/s
-                vs= 20 m/s
-                vp= 0
-                pendengar diam, sumber mendekati pendengar
-            </teks>
-            <gambar>a</gambar>
-            <teks>pendengar diam, sumber manjauhi pendengar</teks>
-            <gambar>b</gambar>
-            <teks>Jadi, pernyataan yang benar yaitu frekuensi yang didengar saat mobil mendekat (850 Hz) lebih besar dari frekuensi yang dikeluarkan mobil (800 Hz)</teks>
-        </pembahasan>
+        <gambar>ls5</gambar>
+        <teks>Jawablah Pertanyaan di atas dengan menggunakan tahapan penyelesaian pemecahan masalah  menurut Rosengrant berikut:</teks>
+        <gambar>ls99</gambar>
     </soal>
     <soal>
-        <isi>
-            <teks>Seorang anak dan sebuah mobil ambulan bergerak saling menjauhi. Mobil ambulan membunyikan sirine berfrekuensi fs dan bergerak dengan kecepatan vs, sedangkan anak bergerak dengan kecepatan vp. Jika cepat rambat bunyi v dan bunyi sirine yang didengar oleh anak fp berdasarkan asas doppler adalah....</teks>
-        </isi>
-        <a><gambar>c</gambar></a>
-        <b><gambar>d</gambar></b>
-        <c><gambar>e</gambar></c>
-        <d><gambar>f</gambar></d>
-        <e><gambar>g</gambar></e>
-        <kunci>a</kunci>
-        <pembahasan>
-            <teks>Mobil bergerak menjauhi pendengar, maka vp bernilai negatif (-)
-                Sang anak bergerak menjauhi sumber, maka vs bernilai positif (+)
-                Sehingga persamaan yang terbentuk adalah
-            </teks>
-            <gambar>h</gambar>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Benda A adalah sumber bunyi yang mengeluarkan nada dengan frekuensi P. B adalah pendengar. Saat A dan B diam di tempatnya masing-masing, B mendengar nada itu dengan frekuensi Q. Kemudian B bergerak mendekati A sehingga nada yang didengarnya berfrekuensi R. Setelah melewati A, nada yang didengar B berfrekuensi S. Hubungan frekuensi P, Q, R dan S dinyatakan sebagai ….</teks>
-        </isi>
-        <a><teks>P = Q = R = S</teks></a>
-        <b><teks>Q = P, R > P, S > P</teks></b>
-        <c><teks>Q = P, R &lt; P, S > P</teks></c>
-        <d><teks>Q = P, R > P, S &lt; P</teks></d>
-        <e><teks>Q &lt; P, R &lt; P, S &lt; P</teks></e>
-        <kunci>d</kunci>
-        <pembahasan>
-            <teks>Untuk mengerjakan soal di atas, kita bisa perhatikan tabel berikut:</teks>
-            <gambar>i</gambar>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Jika sumber bunyi bergerak dengan kecepatan v mendekati pendengar yang diam, dibanding dengan sumber bunyi yang diam dan pendengar yang mendekati sumber bunyi dengan kecepatan yang sama, maka terdengar bunyi....</teks>
-        </isi>
-        <a><teks>yang sama tingginya</teks></a>
-        <b><teks>yang pertama lebih rendah dari yang kedua</teks></b>
-        <c><teks>yang pertama lebih tinggi dari yang kedua</teks></c>
-        <d><teks>yang pertama makin kereas, yang kedua makin lemah</teks></d>
-        <e><teks>yang pertama makin lemah dan yang kedua makin keras</teks></e>
-        <kunci>c</kunci>
-        <pembahasan>
-            <teks>Pendengar diam, sumber bunyi mendekati.</teks>
-            <gambar>j</gambar>
-            <teks>Sumber bunyi diam, pendengar mendekati.</teks>
-            <gambar>k</gambar>
-            <gambar>karena v^2> (v^2-V^2) maka
-                sehingga f_p1> f_p2
-                Jadi frekuensi yang didengar oleh pendengar yang diam (sumber mendekati) akan lebih tinggi daripada frekuensi yang didengar pendengar yang bergerak mendekati (sumber diam).
-            </gambar>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Seorang pengamat berada pada sejauh R dari sumber bunyi. Hubungan kecepatan pengamat bergerak terhadap frekuensi bunyi yang terdengar oleh pengamat ditunjukkan oleh grafik berikut</teks>
-            <gambar>l</gambar>
-            <teks>Jika kecepatan bunyi di udara sebesar 340 m/s, maka garis AB pada grafik di atas menunjukkan bahwa ....</teks>
-        </isi>
-        <a><teks>sumber bunyi bergerak mendekat ke pengamat</teks></a>
-        <b><teks>sumber bunyi bergerak menjauh ke pengamat</teks></b>
-        <c><teks>sumber dan pengamat diam</teks></c>
-        <d><teks>pengamat bergerak menjauh dari sumber bunyi</teks></d>
-        <e><teks>pengamat bergerak mendekat ke sumber bunyi</teks></e>
-        <kunci>e</kunci>
-        <pembahasan>
-            <teks>pengamat bergerak mendekat ke sumber bunyi</teks>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Dawai gitar yang memiliki panjang 1 m dan massanya 10 gram menghasilkan bunyi nada atas kesatu pada frekuensi 600 Hz. Tegangan pada dawai gitar tersebut adalah….</teks>
-        </isi>
-        <a><teks>3600 N</teks></a>
-        <b><teks>2500 N</teks></b>
-        <c><teks>1600 N</teks></c>
-        <d><teks>900 N</teks></d>
-        <e><teks>400 N</teks></e>
-        <kunci>a</kunci>
-        <pembahasan>
-            <teks>Diketahui:
-                l = 1m
-                m = 10 gram
-                f 1= 600 Hz
-                Ditanyakan: F?
-            </teks>
-            <gambar>m</gambar>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Sebuah pipa yang salah satu dari ujungnya tertutup dan ujung yang lain terbuka memiliki panjang 68 cm. Jika cepat rambat bunyi di udara adalah 340 m/s, maka besar tiga frekuensi harmonic pertama adalah…. </teks>
-        </isi>
-        <a><teks>125 Hz, 375 Hz, 625 Hz</teks></a>
-        <b><teks>125 Hz, 500 Hz, 750 Hz</teks></b>
-        <c><teks>125 Hz, 250 Hz, 375 Hz</teks></c>
-        <d><teks>250 Hz, 500 Hz, 750 Hz</teks></d>
-        <e><teks>250 Hz, 750 Hz, 1250 Hz</teks></e>
-        <kunci>a</kunci>
-        <pembahasan>
-            <teks>Diketahui:
-                Pipa organa tertutup
-                l = 68 cm
-                v = 340 m/s
-                Ditanyakan: 3 frekuensi harmonik pertama?
-                Jawab:
-                Frekuensi nada dasar
-            </teks>
-            <gambar>n</gambar>
-            <teks>Frekuensi nada atas ke 1 dan ke 2</teks>
-            <teks>f1=3(125)=375 Hz
-                f2=5(125)=625 Hz
-            </teks>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Titik P berjarak 2 meter dari sumber bunyi dan intensitas gelombang di P adalah 900 watt/m2. Hitunglah intensitas gelombang di titik Q yang berjarak 6 meter dari sumber bunyi....</teks>
-        </isi>
-        <a><teks>100 W.m-2</teks></a>
-        <b><teks>200 W.m-2</teks></b>
-        <c><teks>300 W.m-2</teks></c>
-        <d><teks>500 W.m-2</teks></d>
-        <e><teks>900 W.m-2</teks></e>
-        <kunci>a</kunci>
-        <pembahasan>
-            <gambar>o</gambar>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Pernyataan yang paling tepat untuk menunjukan hubungan antara intensitas dan jarak adalah...</teks>
-        </isi>
-        <a><teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara linear.</teks></a>
-        <b><teks>Intensitas memiliki hubungan yang be	rbanding terbalik dengan jarak secara kuadratik.</teks></b>
-        <c><teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara logaritmik</teks></c>
-        <d><teks>Intensitas memiliki hubungan yang berbanding lurus dengan jarak secara linear.</teks></d>
-        <e><teks>Intensitas memiliki hubungan yang berbanding lurus dengan jarak secara kuadratik.</teks></e>
-        <kunci>b</kunci>
-        <pembahasan>
-            <teks>Karena secara matematis hubungan intensitas dan jarak dinyatakan oleh</teks>
-            <gambar>p</gambar>
-        </pembahasan>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Sebuah mesjid sedang direnovasi untuk meningkatkan kualitas pengeras suara. Karena anda merupakan seorang yang belajar fisika, pemasangan toa yang paling efektif agar suara lebih terdengar nyaring dan jauh adalah...</teks>
-        </isi>
-        <a><teks>Dipasang satu titik saja dengan mengarah pada satu mata angin</teks></a>
-        <b><teks>Dipasang satu titik saja dengan mengarah pada semua arah mata angin</teks></b>
-        <c><teks>Dipasang di berbagai titik dengan mengarah pada semua arah mata angin</teks></c>
-        <d><teks>Dipasang di berbagai titik dengan mengarah pada satu mata angin</teks></d>
-        <e><teks>Dipasang di berbagai titik dengan arah saling berhadap hadapan</teks></e>
-        <kunci>b</kunci>
-        <pembahasan>
-            <teks>Jawaban yang paling tepat adalah B karena ketika ditumpuk pada satu titik maka akan meningkatkan taraf intensitas bunyi dan memperbesar terjadinya superposisi</teks>
-        </pembahasan>
+        <teks>Sebuah gas diatomik masing-masing berada dalam tabung. Jika tabung pertama dan tabung kedua dipanaskan sampai suhu 150oC dan 450oC, berapakah perbandingan energi dalam pada kedua tabung tersebut?</teks>
+        <teks>Jawablah Pertanyaan di atas dengan menggunakan tahapan penyelesaian pemecahan masalah  menurut Rosengrant berikut:</teks>
+        <gambar>ls99</gambar>
     </soal>
 </latihan>

@@ -16,49 +16,54 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/blue_400"
-                    android:paddingBottom="@dimen/_80sdp"
+                    android:background="@color/red_400"
+                    android:orientation="vertical"
                     android:paddingTop="@dimen/_80sdp"
-                    android:orientation="vertical">
+                    android:paddingBottom="@dimen/_80sdp">
+
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
-                        android:textSize="@dimen/_24sdp"
-                        android:textAllCaps="true"
                         android:layout_gravity="center"
-                        android:text="M-LEARNING"/>
+                        android:text="M-LEARNING"
+                        android:textAllCaps="true"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_24sdp"
+                        android:textStyle="bold" />
+
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
-                        android:textSize="@dimen/_24sdp"
-                        android:textAllCaps="true"
                         android:layout_gravity="center"
-                        android:text="@string/judul"/>
+                        android:text="@string/judul"
+                        android:textAllCaps="true"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_24sdp"
+                        android:textStyle="bold" />
+
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:paddingTop="@dimen/_6sdp"
-                        android:paddingBottom="@dimen/_6sdp"
-                        android:paddingRight="@dimen/_10sdp"
-                        android:paddingLeft="@dimen/_10sdp"
                         android:layout_gravity="center"
-                        android:gravity="center">
+                        android:gravity="center"
+                        android:paddingLeft="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_6sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_6sdp">
+
                         <TextView
                             android:layout_width="match_parent"
-                            android:gravity="center"
                             android:layout_height="wrap_content"
-                            android:textColor="@color/white"
-                            android:textStyle="bold"
-                            android:textSize="@dimen/_16sdp"
                             android:layout_gravity="center"
-                            android:text="@string/sub_judul"/>
+                            android:gravity="center"
+                            android:text="@string/sub_judul"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/_16sdp"
+                            android:textStyle="bold" />
                     </LinearLayout>
                 </LinearLayout>
                 <LinearLayout
@@ -281,7 +286,7 @@
                                     android:textSize="@dimen/_18sdp"
                                     android:textColor="@color/blue_400"
                                     android:textStyle="bold"
-                                    android:text="Materi \n Gelombang Bunyi"/>
+                                    android:text="Materi \n Teori Kinetik Gas"/>
                             </LinearLayout>
                         </androidx.cardview.widget.CardView>
                         <androidx.cardview.widget.CardView
@@ -450,7 +455,7 @@
                 app:cardMaxElevation="@dimen/_3sdp"
                 app:cardCornerRadius="@dimen/_30sdp"
                 android:background="@color/red_400"
-                app:cardBackgroundColor="@color/red_400"
+                app:cardBackgroundColor="@color/red_800"
                 android:layout_marginLeft="@dimen/_20sdp">
                 <LinearLayout
                     android:layout_width="match_parent"

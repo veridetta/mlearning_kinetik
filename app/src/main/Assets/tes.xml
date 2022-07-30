@@ -1,555 +1,348 @@
 <?xml version="1.0"?>
 <latihan>
+    <!-- No 1 / b -->
     <soal>
-        <isi><teks>Jika seorang astronot memukul genderang di bulan, ia tidak dapat mendengar suara tersebut karena....</teks></isi>
-        <a><teks>gravitasi di bulan sangat kecil</teks></a>
-        <b><teks>di bulan tidak ada udara sebagai perantara bunyi</teks></b>
-        <c><teks>angkasa luar terlalu luas, tidak ada pemantulan bunyi</teks></c>
-        <d><teks>suhu sangat dingin, gelombang bunyi membeku</teks></d>
-        <e><teks>tekanan sangat rendah</teks></e>
-        <kunci>b</kunci>
+        <isi>
+            <teks>Perhatikan gambar berikut.</teks>
+            <gambar>sa1</gambar>
+            <teks>Berdasarkan gambar di atas yang termasuk ke dalam zat gas yaitu...</teks>
+        </isi>
+        <a><teks>kompor, gelembung, dan air</teks></a>
+        <b><teks>panci, gelembung dan api</teks></b>
+        <c><teks>uap, panci dan kompor</teks></c>
+        <d><teks>gelembung, api, dan uap</teks></d>
+        <e><teks>uap, gelembung, dan panci</teks></e>
+        <kunci>D</kunci>
     </soal>
+    <!-- No 2 / b -->
     <soal>
-        <isi><teks>Anda berdiri di samping tiang lampu merah ketika sedang perjalanan ke sekolah. Dari kejauhan terdengar suara sirene ambulans meskipun mobil ambulans belum terlihat. Peristiwa ini menunjukkan bahwa bunyi dapat....</teks></isi>
-        <a><teks>merambat melalui medium udara</teks></a>
-        <b><teks>bersuspensi dengan gelombang lain</teks></b>
-        <c><teks>beresonansi dengan udara sekitar</teks></c>
-        <d><teks>dipantulkan oleh benda sekitar</teks></d>
-        <e><teks>bertambah frekuensinya</teks></e>
+        <isi><teks>Sifat-sifat gas terbagi menjadi sifat makroskopis dan sifat mikroskopis gas. pilihan berikut yang termasuk dalam sifat makroskopis suatu gas adalah...</teks></isi>
+        <a><teks>gaya antarpartikel</teks></a>
+        <b><teks>temperatur</teks></b>
+        <c><teks>energi kinetik</teks></c>
+        <d><teks>momentum </teks></d>
+        <e><teks>kecepatan rata-rata</teks></e>
+        <kunci>B</kunci>
+    </soal>
+    <!-- No 3 / c -->
+    <soal>
+        <isi>
+            <teks>Perhatikan pernyataan berikut!</teks>
+            <teks>1) Tidak memiliki gaya antarmolekul </teks>
+            <teks>2) Memiliki ukuran dan volume</teks>
+            <teks>3) Molekul gas dianggap sebagai partikel titik</teks>
+            <teks>4) memiliki gaya antarmolekul</teks>
+            <teks>yang termasuk karakteristik dari gas ideal adalah...</teks>
+        </isi>
+        <a><teks>1, 2, dan 3</teks></a>
+        <b><teks>1 dan 3</teks></b>
+        <c><teks>2 dan 4</teks></c>
+        <d><teks>3 dan 4</teks></d>
+        <e><teks>semua benar</teks></e>
+        <kunci>B</kunci>
+    </soal>
+    <!-- No 4 / d -->
+    <soal>
+        <isi>
+            <teks>Doni memiliki balon yang berisi gas, kemudian ia masukkan balon tersebut pada zat cair yang suhunya tinggi daripada suhu balon, sehingga partikel gas dalam balon....</teks>
+        </isi>
+        <a><teks>mengembang</teks></a>
+        <b><teks>bertambah banyak</teks></b>
+        <c><teks>massa partikel gas bertambah</teks></c>
+        <d><teks>menyusut</teks></d>
+        <e><teks>bergerak melambat</teks></e>
         <kunci>A</kunci>
     </soal>
+    <!-- No 5 / e -->
     <soal>
         <isi>
-            <teks>Perhatikan gambar garputala yang bergetar berikut ini!</teks>
-            <gambar>t1</gambar>
-            <teks>
-                1.	Dihasilkan oleh dorongan yang berulang secara horizontal
-                2.	Dihasilkan oleh dorongan yang berulang secara vertikal
-                3.	Simbol C merupakan regangan dan simbol D merupakan rapatan
-                4.	Simbol C merupakan rapatan dan simbol D merupakan regangan
-                5.	Arah getarannya ditunjukkan oleh panah A dan arah rambatnya ditunjukkan oleh panah B
-                6.	Arah getarannya ditunjukkan oleh panah B dan arah rambatnya ditunjukkan oleh panah A
-                7.	 Arah getarannya searah dengan arah perambatan gelombang ditunjukkan oleh panah B
-                8.	Arah getarannya searah dengan arah perambatan gelombang ditunjukkan oleh panah A
-            </teks>
-            <teks>Pernyataan yang benar mengenai gambar di atas adalah . . . .</teks>
+            <teks>Ani melakukan percobaan sejumlah gas yang ditempatkan dalam tabung tertutup dengan suhu dibuat konstan dan terdapat piston yang dapat digerakkan naik turun seperti terlihat pada gambar.</teks>
+            <gambar>se1</gambar>
+            <teks>Dari percobaan tersebut diperoleh hasil percobaan seperti pada tabel berikut.</teks>
+            <gambar>se2</gambar>
+            <teks>Berdasarkan data tersebut, perkirakan nilai tekanan pada percobaan ke 2...</teks>
         </isi>
-        <a><teks>1 dan 2</teks></a>
-        <b><teks>3 dan 4</teks></b>
-        <c><teks>5 dan 6</teks></c>
-        <d><teks>7 dan 8</teks></d>
-        <e><teks>8 dan 1</teks></e>
-        <kunci>e</kunci>
+        <a><teks>10,00</teks></a>
+        <b><teks>15,00</teks></b>
+        <c><teks>20,00</teks></c>
+        <d><teks>25,00</teks></d>
+        <e><teks>30,00</teks></e>
+        <kunci>C</kunci>
     </soal>
+    <!-- No 6 / f -->
     <soal>
         <isi>
-            <teks>Bunyi dengan panjang gelombang 1,5 m memiliki kecepatan rambat sebesar 330 m/s.  Nilai frekuensi yang dihasilkan sebesar ....Hz dan termasuk dalam kategori....</teks>
+            <teks>Pada percobaan, satu mol gas oksigen ditempatkan pada bejana tertutup dengan piston yang dapat digerakkan naik turun. Dimana suhu (T) bejana dibuat konstan 300 K sehingga didapat data percobaan sebagai berikut:</teks>
+            <gambar>sf1</gambar>
+            <teks>Berdasarkan data tersebut, sketsa grafik yang benar adalah...</teks>
         </isi>
-        <a><teks>220, infrasonik</teks></a>
-        <b><teks>220, audiosonik</teks></b>
-        <c><teks>0,0045, ultrasonik</teks></c>
-        <d><teks>0,0015, infrasonik</teks></d>
-        <e><teks>0,0015, audiosonik</teks></e>
-        <kunci>b</kunci>
+        <a><gambar>jf1</gambar></a>
+        <b><gambar>jf2</gambar></b>
+        <c><gambar>jf3</gambar></c>
+        <d><gambar>jf4</gambar></d>
+        <e><gambar>jf5</gambar></e>
+        <kunci>B</kunci>
     </soal>
+    <!-- No 7 / g -->
     <soal>
         <isi>
-            <teks>Bunyi peluit kereta api dan sirine pabrik dapat didengar pada jarak yang lebih jauh selama musim hujan daripada musim panas. Pernyataan tersebut dikarenakan oleh....</teks>
+            <teks>Perhatikan gambar berikut!</teks>
+            <gambar>sg1</gambar>
+            <teks>Sebuah gas ideal dalam sistem tertutup bersuhu konstan, jika gas didorong ke bawah dan volume gas menjadi setengahnya, maka...</teks>
         </isi>
-        <a><teks>Massa jenis udara lembab ketika musim hujan lebih kecil daripada massa jenis udara kering. Cepat rambat bunyi dalam udara lembab lebih besar daripada udara kering.</teks></a>
-        <b><teks>Massa jenis udara kering saat musim panas lebih kecil daripada massa jenis udara lembab. Cepat rambat bunyi dalam udara kering lebih besar daripada udara lembab.</teks></b>
-        <c><teks>Massa jenis udara lembab saat musim hujan lebih kecil daripada massa jenis udara kering. Cepat rambat bunyi dalam udara lembab lebih besar daripada udara kering.</teks></c>
-        <d><teks>Massa jenis udara lembab saat musim hujan lebih besar daripada massa jenis udara kering. Cepat rambat bunyi dalam udara lembab lebih besar daripada udara kering.</teks></d>
-        <e><teks>Massa jenis udara lembab saat musim hujan lebih kecil daripada massa jenis udara kering. Cepat rambat bunyi dalam udara kering lebih besar daripada udara lembab.</teks></e>
-        <kunci>c</kunci>
+        <a><teks>Tekanan akan menjadi sepertiganya</teks></a>
+        <b><teks>Tekanan akan menjadi setengahnya</teks></b>
+        <c><teks>Tekanan akan menjadi dua kali lipat</teks></c>
+        <d><teks>Tekanan akan menjadi tiga kali lipat.</teks></d>
+        <e><teks>Tekanan tidak mengalami perubahan (tetap)</teks></e>
+        <kunci>C</kunci>
     </soal>
+    <!-- No 8 / h -->
     <soal>
         <isi>
-            <teks>Seorang anak mendekatkan telinganya pada rel kereta api seperti pada gambar berikut. Bunyi gemuruh kereta api terdengar oleh anak tersebut ketika telinganya didekatkan meskipun posisi kereta api masih jauh dan menuju ke arahnya</teks>
-            <gambar>t2</gambar>
-            <teks>Namun, ketika telinga tidak didekatkan tidak terdengar gemuruh. Peristiwa ini membuktikan bahwa….</teks>
+            <teks>Jika botol kemansan minuman soda dalam keadaan tertutup kita panaskan di atas api kompor, maka botol tersebut akan meledak dan isinya menyembur keluar seperti pada gambar, hal tersebut dikarenakan...</teks>
+            <gambar>sh1</gambar>
         </isi>
-        <a><teks>Bunyi kereta api hanya dapat merambat melalui rel kereta api.</teks></a>
-        <b><teks>Bunyi kereta api sebagian besar merambat melalui rel kereta api.</teks></b>
-        <c><teks>Jika ada rel kereta api, udara tidak dapat merambatkan bunyi.</teks></c>
-        <d><teks>Bunyi merambat pada rel kereta api lebih cepat daripada di udara.</teks></d>
-        <e><teks>Bunyi merambat pada rel kereta api lebih lambat daripada di udara.</teks></e>
-        <kunci>d</kunci>
+        <a><teks>semakin besar volume maka semakin besar tekanan gasnya</teks></a>
+        <b><teks>semakin tinggi suhu maka semakin besar tekanan gasnya</teks></b>
+        <c><teks>semakin kecil volume maka semakun besar tekanan gasnya</teks></c>
+        <d><teks>semakin rendah suhu maka semakin besar tekanannya</teks></d>
+        <e><teks>semakin rendah suhu maka semakin kecil tekanannya</teks></e>
+        <kunci>B</kunci>
     </soal>
+    <!-- No 9 / i -->
     <soal>
         <isi>
-            <teks>Diketahui massa jenis air dan baja masing-masing 1.000 kg/m^3 dan 7.800 kg/m^3. Memiliki nilai modoulus bulk 2 x 10^9 n/m^2 dan modulus elastisitas 2 x 10^11 n/m^2. Maka cepat rambat bunyi yang terjadi pada baja sebesar....</teks>
+            <teks>Suatu gas bervolume konstan dan memiliki tekanan awal sebesar 2 atm dan tekanan akhir sebesar 4 atm, dimana suhu akhir dari gas tersebut adalah 30oC. Nilai volume awal gas tersebut adalah....</teks>
         </isi>
-        <a><teks>14,1 x 10^1 m/s</teks></a>
-        <b><teks>14,1 x 10^2 m/s</teks></b>
-        <c><teks>14,1 x 10^3 m/s</teks></c>
-        <d><teks>5,06 x 10^2 m/s</teks></d>
-        <e><teks>5,06 x 10^3 m/s</teks></e>
-        <kunci>e</kunci>
+        <a><teks>151,5 oC</teks></a>
+        <b><teks>141,5 oC</teks></b>
+        <c><teks>131,5 oC</teks></c>
+        <d><teks>121,5 oC</teks></d>
+        <e><teks>111,5 oC</teks></e>
+        <kunci>D</kunci>
     </soal>
+    <!-- No 10 / j -->
     <soal>
         <isi>
-            <teks>Pada siang hari suara tukang abang bakso terdengar samar-samar sehingga tidak begitu jelas terdengar, karena gelombang bunyi mengalami ….</teks>
+            <teks>Suatu gas dengan volume V berada dalam ruang tertutup yang memiliki tekanan P dan suhu T. Jika gas mengalami ekspansi secara isobarik volumenya berubah menjadi ½ kali volume awal, maka perbandingan suhu gas awal dan akhir adalah...</teks>
         </isi>
-        <a><teks>Perpaduan</teks></a>
-        <b><teks>Pengkutuban</teks></b>
-        <c><teks>Pembiasan</teks></c>
-        <d><teks>Pelenturan</teks></d>
-        <e><teks>Pemantulan</teks></e>
-        <kunci>c</kunci>
+        <a><teks>1 : 1</teks></a>
+        <b><teks>1 : 2</teks></b>
+        <c><teks>1 : 3</teks></c>
+        <d><teks>2 : 1</teks></d>
+        <e><teks>3 : 2</teks></e>
+        <kunci>D</kunci>
     </soal>
+    <!-- No 11 / k -->
     <soal>
         <isi>
-            <teks>Pada malam hari bunyi petir terdengar lebih keras daripada siang hari karena pembiasaan bunyi pada malam hari mendekati garis normal. Pernyataan tersebut benar karena ....</teks>
+            <teks>Persamaan gas berikut ini adalah benar, kecuali.... (dimana P = tekanan, V = volume, T = suhu, k = konstanta Boltzman, R = tetapan umum gas dan N0 = bilangan Avogadro)</teks>
         </isi>
-        <a><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></a>
-        <b><teks>pada malam hari udara lapisan atas lebih digin dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></b>
-        <c><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih kecil dibanding lapisan atas. dan pembiasan bunyi petir menjauhi garis normal.</teks></c>
-        <d><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih besar dibanding lapisan atas. dan pembiasan bunyi petir medekati garis normal.</teks></d>
-        <e><teks>pada malam hari udara lapisan atas lebih panas dibanding udara pada lapisan bawah (dekat tanah). dengan demikian kecepatan bunyi pada lapisan bawah lebih besar dibanding lapisan atas. dan pembiasan bunyi petir menjauhi garis normal.</teks></e>
-        <kunci>a</kunci>
+        <a><teks>PV = nkT</teks></a>
+        <b><teks>PV = NkT</teks></b>
+        <c><teks>PV = nRT</teks></c>
+        <d><teks>PV = N/N0 RT</teks></d>
+        <e><teks>PV = nN0Kt</teks></e>
+        <kunci>E</kunci>
     </soal>
+    <!-- No 12 / l -->
     <soal>
         <isi>
-            <teks>Pernyataan-pernyataan berikut ini berkaitan dengan bunyi, sifat-sifat bunyi dan pemanfaatan bunyi:
-                1)	termasuk gelombang elektromagnetik
-                2)	termasuk gelombang transversal
-                3)	termasuk gelombang longitudinal
-                4)	dapat dipantulkan
-                5)	dapat dipolarisasikan
-                6)	dapat dibiaskan
-                7)	dapat merambat di ruang hampa udara
-                8)	dapat merambat pada zat padat
-                9)	kelajuan bunyi diudara lebih besar dari kelajuan bunyi di dalam air
-                10)	digunakan duntuk penyiaran benih atau biji
-                11)	gajah dapat mendengar bunyi yang frekuensinya di bawah 20 Hz
-            </teks>
-            <teks>Pernyataan yang sesuai mengenai sifat bunyi adalah</teks>
-        </isi>
-        <a><teks>1, 2, 3, 5</teks></a>
-        <b><teks>3, 4, 6, 8</teks></b>
-        <c><teks>6, 7, 10, 11</teks></c>
-        <d><teks>1, 5, 9, 11</teks></d>
-        <e><teks>2, 7, 10, 11</teks></e>
-        <kunci>b</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Rani berteriak dengan suara keras di hadapan tebing yang tinggi. Beberapa detik kemudian terdengar gema yang merupakan bunyi pantul suaranya. Sekiranya Rani mencatat selang waktu antara gema dan teriakannya, dan mengetahui cepat rambat bunyi di udara saat itu, maka Rani dapat memanfaatkan bunyi pantul itu untuk mengetahui....</teks>
+            <teks>Berdasarkan hasil percobaan sejumlah gas Nitrogen, menghasilkan sejumlah keadaan seperti tampak pada grafik. Berdasarkan grafik tersebut,  nilai volume gas Nitrogen saat suhu 440 K adalah...</teks>
+            <gambar>sl1</gambar>
         </isi>
         <a>
-            <teks>Ketinggian tebing dari permukaan laut</teks>
+            <teks>40 cm3</teks>
         </a>
         <b>
-            <teks>jarak tebing dari tempat Rani berteriak</teks>
+            <teks>41 cm3</teks>
         </b>
         <c>
-            <teks>luas dinding tebing yang dituju Rani</teks>
+            <teks>42 cm3</teks>
         </c>
         <d>
-            <teks>kelembaban udara di sekitar tebing</teks>
+            <teks>43 cm3</teks>
         </d>
         <e>
-            <teks>kecepatan angin yang mengarah ke Rani</teks>
+            <teks>44 cm3</teks>
         </e>
-        <kunci>b</kunci>
+        <kunci>E</kunci>
     </soal>
+    <!-- No 13 / m -->
     <soal>
         <isi>
-            <teks>Ketika anda sedang berada di kamar, anda mendengar Lala berteriak memanggil dari kamar mandi yang berada di sebelah kamar untuk diambilkan handuk. Anda segera beranjak dari kamar dan mengambilkan handuk untuk Lala. Peristiwa tersebut menunjukkan bahwa bunyi dapat.....</teks>
+            <teks>Suatu gas ideal memiliki suhu T1 dimasukkan ke dalam sebuah tabung. Jika gas tersebut dipanaskan sampai suhunya menjadi</teks>
+            <gambar>sm1</gambar> 
+             <teks>maka setelah dipanaskan kecepatan partikel gas (v), energi kinetik (EK) dan jumlah partikel gas (N) menjadi ...</teks>
         </isi>
         <a>
-            <teks>terjadi layangan karena teriakan yang besar</teks>
+            <gambar>jm1</gambar> 
         </a>
         <b>
-            <teks>dipantulkan oleh dinding kamar</teks>
+            <gambar>jm2</gambar> 
         </b>
         <c>
-            <teks>diredam oleh dinding kamar</teks>
+            <gambar>jm3</gambar> 
         </c>
         <d>
-            <teks>dilenturkan ketika melalui celah-celah sempit</teks>
+            <gambar>jm4</gambar> 
         </d>
         <e>
-            <teks>terjadi layangan karena celah-celahnya kecil</teks>
+            <gambar>jm5</gambar> 
         </e>
-        <kunci>d</kunci>
+        <kunci>E</kunci>
     </soal>
+    <!-- No 14 / n -->
     <soal>
         <isi>
-            <teks>Sebuah garputala digetarkan di atas tabung yang panjang kolom udaranya adalah L seperti pada gambar di bawah ini.</teks>
-            <gambar>t3</gambar>
-            <teks>Tinggi air di dalam tabung diubah dengan mengurangi air sedikit demi sedikit. Ketika panjang kolom udara adalah Ln terjadi resonansi ke-n, ternyata perut gelombang tidak tepat terjadi di ujung tabung, tetapi terjadi pada jark ΔL di atas ujung tabung. Jika laju gelombang bunyi adalah v, frekuensi gelombang yang terjadi adalah….</teks>
+            <teks>Perhatikan gambar berikut.</teks>
+            <gambar>sn1</gambar>
+            <teks>Udara dalam piston (sistem tertutup) jika kita tekan sampai volumenya berkurang menjadi setengahnya menyababkan partikel-partikel udara akan mengalami...</teks>
         </isi>
         <a>
-            <gambar>t4</gambar>
+            <teks>Penurunan  jumlah molekul udara</teks>
         </a>
         <b>
-            <gambar>t5</gambar>
+            <teks>Peningkatan jumlah molekul udara</teks>
         </b>
         <c>
-            <gambar>t6</gambar>
+            <teks>Penurunan laju molekul</teks>
         </c>
         <d>
-            <gambar>t7</gambar>
+            <teks>Penurunan suhu</teks>
         </d>
         <e>
-            <gambar>t8</gambar>
+            <teks>Peningkatan tumbukan</teks>
         </e>
-        <kunci>d</kunci>
-    </soal>13
+        <kunci>E</kunci>
+    </soal>
+    <!-- no 15 / o -->
     <soal>
         <isi>
-            <teks>Seorang penonton lomba balap mobil mendengar deru mobil yang berbeda, ketika mobil mendekat dan menjauh. Rata-rata mobil balap mengeluarkan bunyi dengan frekuensi 800 Hz. Jika kecepatan bunyi di udara 340 m/s dan kecepatan mobil 20 m/s, maka pernyataan yang benar adalah….</teks>
+            <gambar>so1</gambar>
         </isi>
         <a>
-            <teks>Frekuensi yang didengar saat mobil mendekat lebih kecil dari frekuensi yang dikeluarkan mobil.</teks>
+            <gambar>jo1</gambar>
         </a>
         <b>
-            <teks>Frekuensi yang didengar saat mobil mendekat sama dengan frekuensi yang dikeluarkan mobil.</teks>
+            <gambar>jo2</gambar>
         </b>
         <c>
-            <teks>Frekuensi yang didengar saat mobil mendekat lebih besar dari frekuensi yang dikeluarkan mobil</teks>
+            <gambar>jo3</gambar>
         </c>
         <d>
-            <teks>Frekuensi yang didengar saat mobil menjauh lebih besar dari frekuensi yang dikeluarkan mobil.</teks>
+            <gambar>jo4</gambar>
         </d>
         <e>
-            <teks>Frekuensi yang didengar saat mobil menjauhi sama dengan frekuensi yang dikeluarkan mobil.</teks>
+            <gambar>jo5</gambar>
         </e>
-        <kunci>c</kunci>
+        <kunci>A</kunci>
     </soal>
+    <!-- no 16 / p -->
     <soal>
         <isi>
-            <teks>Sebuah mobil ambulan dan seorang anak bergerak saling menjauhi. Mobil ambulan membunyikan sirine berfrekuensi fs dan bergerak dengan kecepatan vs, sedangkan anak bergerak dengan kecepatan vp. Jika cepat rambat bunyi v dan bunyi sirine didengar oleh anak dengan frekuensi yang didengar anak fp berdasarkan asas doppler adalah....</teks>
+            <teks>Rina melakukan percobaan menutupi lilin yang sedang menyala dengan gelas dimana lilin tersebut disimpan di wadah yang berisi air. Fakta menunjukkan bahwa ketika lilin tersebut mati maka air yang ada diluar gelas menjadi tersedot. Rina mengulangi percobaan itu lagi dan memasang dua lilin, kemudian setelah lilin padam ternyata air yang tersedot lebih banyak.</teks>
+            <gambar>sp1</gambar>
+            <teks>Berdasarkan percobaan dan fakta tersebut, dapat disimpulkan bahwa....</teks>
         </isi>
         <a>
-            <gambar>t8</gambar>
+            <teks>Semakin banyak lilin yang dibakar dalam gelas semakin sedikit air yang terhisap</teks>
         </a>
         <b>
-            <gambar>t9</gambar>
+            <teks>Semakin sedikit lilin yang dibakar dalam gelas semakin banyak air yang terhisap</teks>
         </b>
         <c>
-            <gambar>t10</gambar>
+            <teks>Semakin banyak lilin yang dibakar dalam gelas semakin banyak air yang terhisap</teks>
         </c>
         <d>
-            <gambar>t11</gambar>
+            <teks>Semakin banyak pembakaran semakin sedikit pengurangan partikel gas</teks>
         </d>
         <e>
-            <gambar>t12</gambar>
+            <teks>Semakin banyak pembakaran semakin tinggi pengurangan tekanannya</teks>
         </e>
-        <kunci>e</kunci>
+        <kunci>C</kunci>
     </soal>
+    <!-- No 17 / q -->
     <soal>
         <isi>
-            <teks>Benda A adalah sumber bunyi yang mengeluarkan nada dengan frekuensi P. B adalah pendengar. Saat A dan B diam di tempatnya masing-masing, B mendengar nada itu dengan frekuensi Q. Kemudian B bergerak mendekati A sehingga nada yang didengarnya berfrekuensi R. Setelah melewati A, nada yang didengar B berfrekuensi S. Hubungan frekuensi P, Q, R dan S dinyatakan sebagai …</teks>
+            <teks>Indah melakukan percobaan dengan menggunakan 10 molekul gas yang ditempatkan pada bejana tertutup penghantar kalor dan bervolume konstan. Dari hasil percobaan tersebut, Indah mendapatkan data seperti pada tabel berikut:</teks>
+            <gambar>sq1</gambar>
+            <teks>Berdasarkan data yang didapat pada percobaan, nilai kecepatam efektif gas (Vrms) pada percobaan 3 adalah...</teks>
         </isi>
-        <a><teks>P = Q = R = S</teks></a>
-        <b><teks>Q = P, R > P, S > P</teks></b>
-        <c><teks>Q = P, R > P, S &lt; P</teks></c>
-        <d><teks>Q = P, R &lt; P, S > P</teks></d>
-        <e><teks>Q &lt; P, R &lt; P, S &lt; P</teks></e>
-        <kunci>c</kunci>
+        <a><teks>4,4</teks></a>
+        <b><teks>6,4</teks></b>
+        <c><teks>17,5</teks></c>
+        <d><teks>18,0</teks></d>
+        <e><teks>20,5</teks></e>
+        <kunci>B</kunci>
     </soal>
+    <!-- No 18 / r -->
     <soal>
         <isi>
-            <teks>Sebuah lokomotif mendekati stasiun dengan kecepatan 40 m/s sambil mengeluarkan bunyi peluit yang berfrekuensinya 2100 Hz. Kecepatan bunyi di udara saat itu 320 m/s. Frekuensi yang didengar oleh seseorang di stasiun adalah ….</teks>
+            <teks>Di bawah ini adalah tabel kecepatan efektif beberapa gas pada suhu 20oC</teks>
+            <gambar>sr1</gambar>
+            <teks>Berdasarkan tabel, pernyataan yang paling benar adalah..</teks>
         </isi>
         <a>
-            <teks>1918 Hz</teks>
+            <teks>Kecepatan efektif rata-rata berbanding terbalik dengan suhu gas</teks>
         </a>
         <b>
-            <teks>1933 Hz</teks>
+            <teks>Kecepatan efektif rata-rata berbanding lurus dengan suhu gas</teks>
         </b>
         <c>
-            <teks>2100 Hz</teks>
+            <teks>Kecepatan efektif rata-rata berbanding lurus dengan akar massa molekul relatif</teks>
         </c>
         <d>
-            <teks>2281 Hz</teks>
+            <teks>Kecepatan efektif rata-rata berbanding terbalik dengan akar massa molekul relatif</teks>
         </d>
         <e>
-            <teks>2400 Hz</teks>
+            <teks>Tidak ada hubungan antara molekul dan kecepatan efektif rata-rata</teks>
         </e>
-        <kunci>e</kunci>
+        <kunci>D</kunci>
     </soal>
+    <!-- No 19 / s -->
     <soal>
         <isi>
-            <teks>Jika sumber bunyi bergerak dengan kecepatan v mendekati pendengar yang diam, dibanding dengan sumber bunyi yang diam dan pendengar yang mendekati sumber bunyi dengan kecepatan yang sama, maka terdengar bunyi....</teks>
+            <teks>Secara metematis energi dalam dinyatakan U = Nf (1/2 kT), dimana U = energi dalam, f = derajat kebebasan, k = konstanta Boltzman, dan T = suhu. Pernyataan yang tepat dengan rumusan di atas adalah....</teks>
         </isi>
         <a>
-            <teks>yang sama tingginya</teks>
+            <teks>Suhu gas dan energi dalam gas bertambah pada saat jumlah molekul dan derajat kebebasan tetap.</teks>
         </a>
         <b>
-            <teks>yang pertama lebih tinggi dari yang kedua</teks>
+            <teks>Suhu semakin besar energi dalam semakinkecil pada saat jumlah molekul dan derajat kebebesan tetap</teks>
         </b>
         <c>
-            <teks>yang pertama lebih rendah dari yang kedua</teks>
+            <teks>Energi dalam gas tidak dipengaruhi oleh derajat kebebasan</teks>
         </c>
         <d>
-            <teks>yang pertama makin kereas, yang kedua makin lemah</teks>
+            <teks>Energi dalam gas tidak berubah ketika derajat kebebasan berubah</teks>
         </d>
         <e>
-            <teks>yang pertama makin lemah dan yang kedua makin keras</teks>
+            <teks>Jumlah molekul gas berkurang maka energi dalam akan bertambah</teks>
         </e>
-        <kunci>b</kunci>
+        <kunci>B</kunci>
     </soal>
+    <!-- No 20 / t -->
     <soal>
         <isi>
-            <teks>Perhatikan tabel berikut:</teks>
-            <gambar>t14</gambar>
+            <teks>Sebuah gas yang berada di dalam ruang tertutup dipanaskan mencapai suhu T K maka...</teks>
         </isi>
         <a>
-            <teks>1,2 dan 3</teks>
+            <teks>Energi kinetik molekul gas = 2/3 NkT</teks>
         </a>
         <b>
-            <teks>1,3 dan 5</teks>
+            <teks>Energi potensial molekul gas semakin kecil</teks>
         </b>
         <c>
-            <teks>2,3 dan 4</teks>
+            <teks>Energi kinetik molekul gas = 3/2 NkT</teks>
         </c>
         <d>
-            <teks>2,4 dan 5</teks>
+            <teks>Tekanan gas besarnya tetap</teks>
         </d>
         <e>
-            <teks>3,4 dan 5</teks>
+            <teks>Volume gas akan selalu bertambah karena gas mengalami pemuaian.</teks>
         </e>
-        <kunci>d</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>
-                Seorang pengamat berada pada sejauh R dari sumber bunyi. Hubungan kecepatan pengamat bergerak terhadap frekuensi bunyi yang terdengar oleh pengamat ditunjukkan oleh grafik berikut
-            </teks>
-            <gambar>t15</gambar>
-        </isi>
-        <a>
-            <teks>pengamat bergerak menjauh dari sumber bunyi</teks>
-        </a>
-        <b>
-            <teks>pengamat bergerak mendekat ke sumber bunyi</teks>
-        </b>
-        <c>
-            <teks>sumber bunyi bergerak mendekat ke pengamat</teks>
-        </c>
-        <d>
-            <teks>sumber bunyi bergerak menjauh ke pengamat</teks>
-        </d>
-        <e>
-            <teks>sumber dan pengamat diam</teks>
-        </e>
-        <kunci>b</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Grafik kecepatan pendengar terhadap frekuensi pada saat sumber bunyi dalam keadaan diam yang benar adalah.... (Biru: Pendengar Mendekat, Merah: Pendengar Menjauh)</teks>
-        </isi>
-        <a>
-            <gambar>t16</gambar>
-        </a>
-        <b>
-            <gambar>t17</gambar>
-        </b>
-        <c><gambar>t18</gambar></c>
-        <d><gambar>t19</gambar></d>
-        <e><gambar>t20</gambar></e>
-        <kunci>a</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Dawai gitar yang memiliki panjang 1 m dan massanya 10 gram menghasilkan bunyi nada atas kesatu pada frekuensi 400 Hz. Tegangan pada dawai gitar tersebut adalah….</teks>
-        </isi>
-        <a>
-            <teks>176,89 N</teks>
-        </a>
-        <b>
-            <teks>350,72 N</teks>
-        </b>
-        <c>
-            <teks>879,56 N</teks>
-        </c>
-        <d>
-            <teks>902,26 N</teks>
-        </d>
-        <e>
-            <teks>1600,00 N</teks>
-        </e>
-        <kunci>e</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Pada frekuensi nada dasar pertama pipa organa terbuka pola gelombang yang terbentuk adalah....</teks>
-        </isi>
-        <a>
-            <teks>6 perut dan 3 simpul</teks>
-        </a>
-        <b>
-            <teks>3 perut dan 2 simpul</teks>
-        </b>
-        <c>
-            <teks>3 perut dan 3 simpul</teks>
-        </c>
-        <d>
-            <teks>1 perut dan 4 simpul</teks>
-        </d>
-        <e>
-            <teks>1 perut dan 2 simpul</teks>
-        </e>
-        <kunci>b</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Sebuah pipa yang salah satu dari ujungnya tertutup dan ujung yang lain terbuka memiliki panjang 68 cm. Jika cepat rambat bunyi di udara adalah 340 m/s, maka besar tiga frekuensi harmonic pertama adalah….</teks>
-        </isi>
-        <a>
-            <teks>250 Hz, 500 Hz, 750 Hz</teks>
-        </a>
-        <b>
-            <teks>125 Hz, 250 Hz, 375 Hz</teks>
-        </b>
-        <c>
-            <teks>250 Hz, 750 Hz, 1250 Hz</teks>
-        </c>
-        <d>
-            <teks>125 Hz, 375 Hz, 625 Hz</teks>
-        </d>
-        <e>
-            <teks>125 Hz, 500 Hz, 750 Hz</teks>
-        </e>
-        <kunci>d</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Sebuah sumber mengirim gelombang bunyi dengan daya keluaran 80 W. Besar intensitas bunyi pada jarak 3 m dari sumber adalah....</teks>
-        </isi>
-        <a>
-            <teks>0,707 W/m^2</teks>
-        </a>
-        <b>
-            <teks>0,783 W/m^2</teks>
-        </b>
-        <c>
-            <teks>
-                0,806 W/m^2
-            </teks>
-        </c>
-        <d>
-            <teks>
-            0,854 W/m^2
-            </teks>
-        </d>
-        <e>
-            <teks>
-                0,891 W/m^2
-            </teks>
-        </e>
-        <kunci>a
-        </kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>
-                Titik P berjarak 2 meter dari sumber bunyi dan intensitas gelombang di P adalah 900 watt/m2. Hitunglah intensitas gelombang di titik Q yang berjarak 6 meter dari sumber bunyi....
-            </teks>
-        </isi>
-        <a>
-            <teks>100 W.m^-2</teks>
-        </a>
-        <b>
-            <teks>200 W.m^-2</teks>
-        </b>
-        <c>
-            <teks>300 W.m^-2</teks>
-        </c>
-        <d>
-            <teks>500 W.m^-2</teks>
-        </d>
-        <e>
-            <teks>900 W.m^-2</teks>
-        </e>
-        <kunci>a</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Intensitas bunyi titik P yang berjarak 3 m dari sumber bunyi adalah 10^-4 W/m. Titik R berjarak 300 m dari sumber bunyi. Jika intensitas ambang Io= 10^-12W/m^2, perbandingan taraf  intensitas di titik P dan R adalah....</teks>
-        </isi>
-        <a>
-            <teks>1 : 2</teks>
-        </a>
-        <b>
-            <teks>2 : 1</teks>
-        </b>
-        <c>
-            <teks>3 : 4</teks>
-        </c>
-        <d>
-            <teks>2 : 4</teks>
-        </d>
-        <e>
-            <teks>4 : 3</teks>
-        </e>
-        <kunci>b</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Grafik yang menunjukan hubungan antara Intensitas dan Taraf Intensitas adalah...</teks>
-        </isi>
-        <a>
-           <gambar>t21</gambar>
-        </a>
-        <b>
-            <gambar>t22</gambar>
-        </b>
-        <c>
-            <gambar>t23</gambar>
-        </c>
-        <d>
-            <gambar>t24</gambar>
-        </d>
-        <e>
-            <gambar>t25</gambar>
-        </e>
-        <kunci>a</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Pernyataan yang paling tepat untuk menunjukan hubungan antara intensitas dan jarak adalah...</teks>
-        </isi>
-        <a>
-            <teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara linear.</teks>
-        </a>
-        <b>
-            <teks>Intensitas memiliki hubungan yang berbanding lurus dengan jarak secara linear.</teks>
-        </b>
-        <c>
-            <teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara kuadratik.</teks>
-        </c>
-        <d>
-            <teks>Intensitas memiliki hubungan yang berbanding lurus dengan jarak secara kuadratik.</teks>
-        </d>
-        <e>
-            <teks>Intensitas memiliki hubungan yang berbanding terbalik dengan jarak secara logaritmik</teks>
-        </e>
-        <kunci>c</kunci>
-    </soal>
-    <soal>
-        <isi>
-            <teks>Sebuah mesjid sedang direnovasi untuk meningkatkan kualitas pengeras suara. Karena anda merupakan seorang yang belajar fisika, pemasangan toa yang paling efektif agar suara lebih terdengar nyaring dan jauh adalah...</teks>
-        </isi>
-        <a>
-            <teks>Dipasang satu titik saja dengan mengarah pada semua arah mata angin</teks>
-        </a>
-        <b>
-            <teks>Dipasang satu titik saja dengan mengarah pada satu mata angin</teks>
-        </b>
-        <c>
-            <teks>Dipasang di berbagai titik dengan mengarah pada semua arah mata angin</teks>
-        </c>
-        <d>
-            <teks>Dipasang di berbagai titik dengan mengarah pada satu mata angin</teks>
-        </d>
-        <e>
-            <teks>Dipasang di berbagai titik dengan arah saling berhadap hadapan</teks>
-        </e>
-        <kunci>a</kunci>
+        <kunci>C</kunci>
     </soal>
 </latihan>

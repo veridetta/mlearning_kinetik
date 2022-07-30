@@ -16,23 +16,25 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/blue_400"
-                    android:paddingBottom="@dimen/_80sdp"
+                    android:background="@color/red_400"
+                    android:orientation="vertical"
                     android:paddingTop="@dimen/_80sdp"
-                    android:orientation="vertical">
+                    android:paddingBottom="@dimen/_80sdp">
+
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
-                        android:textSize="@dimen/_24sdp"
-                        android:textAllCaps="true"
-                        android:gravity="center"
                         android:layout_gravity="center"
-                        android:text="Petunjuk \n Penggunaan"/>
+                        android:gravity="center"
+                        android:text="Petunjuk \n Penggunaan"
+                        android:textAllCaps="true"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_24sdp"
+                        android:textStyle="bold" />
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -48,14 +50,14 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="@dimen/_12sdp"
                         android:layout_marginRight="@dimen/_12sdp"
-                        android:background="@color/green_400"
+                        android:background="@color/blue_400"
                         android:padding="@dimen/_12sdp">
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Buka menu “Materi” untuk mempelajari materi dengan seksama \n
-\n Kerjakan latihan soal untuk mengasah kemampuan dan mengetahui perkembangan belajar \n
-\n Catatlah semua kesulitan yang anda alami dalam mempelajari M-learning dan tanyakan pada instruktur/guru"
+\n Kerjakan Latihan soal pemecahan masalah  dan evaluasi untuk mengetahui perkembangan belajar. \n
+\n Catatlah semua kesulitan yang anda alami dalam mempelajari M-Learning dan tanyakan pada instruktuk/guru."
                             android:textStyle="normal"
                             android:textColor="@color/white"
                             android:textSize="@dimen/_13sdp"/>
@@ -64,6 +66,7 @@
 
             </RelativeLayout>
         </androidx.core.widget.NestedScrollView>
-        <include layout="@layout/home_btn"/>
+
+        <include layout="@layout/home_btn" />
     </RelativeLayout>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

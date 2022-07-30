@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.vrcorp.mobilelearningfisika_gelombangbunyi"
+    package="com.vrcorp.mobilelearning_teori_kinetik_gas"
     android:installLocation="preferExternal">
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
@@ -15,17 +15,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".TesActivity"></activity>
-        <activity android:name=".LatihanSoal" />
-        <activity android:name=".LatihanList" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.TesActivity"></activity>
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.LatihanSoal" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.LatihanList" />
         <activity android:name=".materi.MekanismePendengaran" />
-        <activity android:name=".MateriListActivity" />
-        <activity android:name=".TentangActivity" />
-        <activity android:name=".PetaKonsepActivity" />
-        <activity android:name=".KompetensiActivity" />
-        <activity android:name=".PetunjukActivity" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".LaunchActivity">
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.MateriListActivity" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.TentangActivity" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.PetaKonsepActivity" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.KompetensiActivity" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.PetunjukActivity" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.MainActivity" />
+        <activity android:name="com.vrcorp.mobilelearning_teori_kinetik_gas.LaunchActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

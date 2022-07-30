@@ -16,23 +16,25 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/blue_400"
-                    android:paddingBottom="@dimen/_80sdp"
+                    android:background="@color/red_400"
+                    android:orientation="vertical"
                     android:paddingTop="@dimen/_80sdp"
-                    android:orientation="vertical">
+                    android:paddingBottom="@dimen/_80sdp">
+
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
-                        android:textSize="@dimen/_24sdp"
-                        android:textAllCaps="true"
-                        android:gravity="center"
                         android:layout_gravity="center"
-                        android:text="KOMPETENSI DASAR, INDIKATOR DAN TUJUAN PEMBELAJARAN"/>
+                        android:gravity="center"
+                        android:text="KOMPETENSI DASAR, INDIKATOR DAN TUJUAN PEMBELAJARAN"
+                        android:textAllCaps="true"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_24sdp"
+                        android:textStyle="bold" />
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -59,11 +61,6 @@
                                 android:textSize="@dimen/_15sdp"
                                 android:textStyle="bold"
                                 android:text="Kompetensi Dasar"/>
-                            <TextView
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:textSize="@dimen/_13sdp"
-                                android:text="Sub unit pembelajaran ini dikembangkan berdasarkan Kompetensi Dasar kelas XI:"/>
                             <LinearLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -83,7 +80,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:textSize="@dimen/_13sdp"
-                                    android:text="KD 3.10 Menerapkan konsep dan prinsip gelombang bunyi dan cahaya dalam teknologi."/>
+                                    android:text="KD 3.6 Menjelaskan teori kinetik gas dan karakteristik gas pada ruang tertutup"/>
                             </LinearLayout>
                             <LinearLayout
                                 android:layout_width="match_parent"
@@ -104,7 +101,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:textSize="@dimen/_13sdp"
-                                    android:text="KD4.10 Melakukan percobaan tentang gelombang bunyi dan/atau cahaya, berikut presentasi hasil dan makna fisisnya misalnya sonometer, dan kisi difraksi."/>
+                                    android:text="KD 4.6 	Menyajikan karya yang berkaitan dengan teori kinetik gas dan makna fisisnya"/>
                             </LinearLayout>
                         </LinearLayout>
                     </LinearLayout>
@@ -134,13 +131,13 @@
                                     android:layout_height="wrap_content"
                                     android:textSize="@dimen/_15sdp"
                                     android:textStyle="bold"
-                                    android:text="Indikator Kognitif"/>
+                                    android:text="Indikator"/>
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:textSize="@dimen/_13sdp"
                                     android:id="@+id/kognitif_judul"
-                                    android:text=""/>
+                                    android:text="@string/indikator"/>
                             </LinearLayout>
                         </LinearLayout>
                     </RelativeLayout>
@@ -170,12 +167,12 @@
                                     android:layout_height="wrap_content"
                                     android:textSize="@dimen/_15sdp"
                                     android:textStyle="bold"
-                                    android:text="Indikator Keterampilan Komunikasi"/>
+                                    android:text="Indikator Pemecahan Masalah"/>
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:textSize="@dimen/_13sdp"
-                                    android:text="1.	Menuliskan informasi dengan jelas dan dapat dimengerti \n 2.	Menuliskan ide/pendapat yang relevan dengan konten \n 3.	Memberikan representasi yang tepat secara ilmiah \n 4.	Mencantumkan sumber belajar/informasi yang digunakan"/>
+                                    android:text="@string/pemecahan"/>
                             </LinearLayout>
                         </LinearLayout>
                     </RelativeLayout>
@@ -211,7 +208,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:textSize="@dimen/_13sdp"
-                                    android:text="Melalui kegiatan pembelajaran dengan menggunakan bahan ajar mobile learning berbasis multirepresentasi, peserta didik mampu mampu mengoptimalkan kemampuan kognitif dan keterampilan komunikasi dalam menerapkan prinsip Gelombang Bunyi dalam kehidupan sehari-hari."/>
+                                    android:text="Melalui kegiatan pembelajaran dengan menggunakan bahan ajar mobile learning berbasis multirepresentasi, peserta didik mampu mengoptimalkan kemampuan kognitif dan keterampilan pemecahan masalah dalam menerapkan konsep Teori Kinetik Gas dalam kehidupan sehari-hari"/>
                             </LinearLayout>
                         </LinearLayout>
                     </RelativeLayout>
