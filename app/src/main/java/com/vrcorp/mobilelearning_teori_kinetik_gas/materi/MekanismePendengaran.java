@@ -264,6 +264,19 @@ public class MekanismePendengaran extends AppCompatActivity {
                     // float in = getResources().getDimension(R.dimen._90sdp);
                     konten.addView(iv);
                 }
+                if (anak.getNodeName().equals("gif")) {
+                    // add ImageView
+                    Display display = getWindowManager().getDefaultDisplay();
+                    ImageView iv = new ImageView(konten.getContext());
+                    int resourceId = getResources().getIdentifier(anak.getTextContent(), "drawable", "com.vrcorp.mobilelearning_teori_kinetik_gas");
+                    Glide.with(MekanismePendengaran.this)
+                                    .load(resourceId).into(iv);
+                    iv.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+                    //iv.setLayoutParams(parms);
+                    iv.setAdjustViewBounds(true);
+                    // float in = getResources().getDimension(R.dimen._90sdp);
+                    konten.addView(iv);
+                }
                 if (anak.getNodeName().equals("video")) {
                     //add video
                     PlayerView vv = new PlayerView(this);
