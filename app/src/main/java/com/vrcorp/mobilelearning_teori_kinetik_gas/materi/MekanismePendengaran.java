@@ -343,6 +343,30 @@ public class MekanismePendengaran extends AppCompatActivity {
                         }
                     });
                 }
+                if (anak.getNodeName().equals("webview")) {
+                    LinearLayout linearLayout = new LinearLayout(this);
+                    linearLayout.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+                    konten.addView(linearLayout);
+                    WebView wb = new WebView(konten.getContext());
+                    wb.setWebChromeClient(new WebChromeClient());
+                    wb.clearCache(true);
+                    wb.clearHistory();
+                    wb.getSettings().setJavaScriptEnabled(true);
+
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN_MR1) {
+                        wb.getSettings().setMediaPlaybackRequiresUserGesture(false);
+                    }
+                    wb.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
+                    wb.getSettings().setPluginState(WebSettings.PluginState.ON);
+                    wb.setLayerType(View.LAYER_TYPE_HARDWARE, null);
+                    String path = anak.getTextContent() ;
+                    wb.loadUrl(path);
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+                        linearLayout.addView(wb, 0, new LinearLayout.LayoutParams(
+                                new LinearLayout.LayoutParams(RelativeLayout.LayoutParams.MATCH_PARENT,
+                                        LinearLayout.LayoutParams.WRAP_CONTENT)));
+                    }
+                }
                 if (anak.getNodeName().equals("web")) {
                     LinearLayout linearLayout = new LinearLayout(this);
                     linearLayout.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
