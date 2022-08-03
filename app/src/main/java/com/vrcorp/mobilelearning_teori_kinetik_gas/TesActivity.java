@@ -288,7 +288,7 @@ public class TesActivity extends AppCompatActivity {
     }
     protected void sendEmail(String subject, String isi) {
         Log.i("Send email", "");
-        String[] TO = {"veridetta@gmail.com"};
+        String[] TO = {"ridafebry22@gmail.com"};
         String[] CC = {"xyz@gmail.com"};
         Intent emailIntent = new Intent(Intent.ACTION_SEND);
         emailIntent.setData(Uri.parse("mailto:"));
